@@ -5,7 +5,7 @@
         "Entreprise": "Télégramme",
         "URL Entreprise": "https://reseau-opencampus.com",
         "Logo entreprise": "https://placecats.com/250/150",
-        "Horaire présense": "14h - 19h",
+        "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
         "Liste poste": [
@@ -23,14 +23,14 @@
         "Entreprise": "Arkea",
         "URL Entreprise": "https://reseau-opencampus.com",
         "Logo entreprise": "https://placecats.com/250/150",
-        "Horaire présense": "14h - 16h",
-        "Evenement": "JOB DATING + FORUM LIBRE",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
         "Nb poste": 2,
         "Liste poste": [
             "Facility Manager",
             "Assistant.e d’agence en alternance"
         ],
-        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings; gestion des imprévus et des modifications d’interventions)",
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
         "Tags": [
             "gestion"
         ]
@@ -41,8 +41,1015 @@
         "Entreprise": "GOC",
         "URL Entreprise": "https://reseau-opencampus.com",
         "Logo entreprise": "https://placecats.com/250/150",
-        "Horaire présense": "14h - 19h",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "3": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "4": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
         "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "5": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "6": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "7": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "8": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "9": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "10": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "11": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "12": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "13": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "14": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "15": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "16": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "17": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "18": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "19": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "20": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "21": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "22": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "23": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "24": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "25": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "26": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "27": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "28": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "29": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "30": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "31": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "32": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "33": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "34": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "35": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "36": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "37": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "38": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "39": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "40": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "41": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "42": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "43": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "44": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "45": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "46": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "47": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "48": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "49": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "50": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "51": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "52": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "53": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "54": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "55": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "56": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Developpeur Web"
+        ],
+        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
+        "Tags": [
+            "informatique"
+        ]
+    },
+    "57": {
+        "Ville": "Angers",
+        "Ecole": "HTBS",
+        "Entreprise": "Télégramme",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé.e d’études en marketing"
+        ],
+        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
+        "Tags": [
+            "commerce",
+            "marketing"
+        ]
+    },
+    "58": {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "59": {
+        "Ville": "Caen",
+        "Ecole": "LDS",
+        "Entreprise": "GOC",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
         "Nb poste": 1,
         "Liste poste": [
             "Developpeur Web"
