@@ -46,23 +46,20 @@ body {
 .card {
     background: #fff;
     border-radius: 12px;
-    padding: 15px;
+    padding: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease-in-out, border-color 0.3s ease;
-    text-align: center;
-    max-width: 320px;
-    width: 100%;
-    margin: auto;
-    border: 3px solid transparent;
-    position: relative;
-    padding-bottom: 50px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
-.card img {
-    max-width: 120px;
-    border-radius: 8px;
+.entreprise-logo {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 70px;
+    height: 70px;
+    padding: 5px;
     display: block;
-    margin: 0 auto 10px;
 }
 
 .card h3 {
@@ -71,22 +68,29 @@ body {
     color: #222;
 }
 
-.card .horaire {
-    font-size: 14px;
-    color: #555;
-    font-weight: bold;
+.card-col2 {
+    display: flex;
+    flex-direction: column;
+    padding: 0em .8em;
 }
 
-.card .liste-postes {
-    list-style-type: none;
-    padding: 0; 
-    margin: 0; 
+.description {
+    font-size: 0.8em;
 }
 
-.card .liste-postes li {   
-    font-size: 14px;   
-    font-weight: bold; 
-    margin: 5px 0; 
+.card-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.card .poste-principal{   
+    background-color: #1D1D1D;
+    border-radius: 1em;
+    padding: 0.2em .6em;
+    color: #FFF;
+    font-size: 0.9em;
 }
 
 /* Événement en fond coloré */
@@ -100,11 +104,9 @@ body {
     margin: 10px 0;
 }
 
-.card p {
-    font-size: 12px;
-    line-height: 1.4;
-    color: #555;
-    margin-bottom: 20px;
+.nb-postes {
+    text-align: center;
+    font-weight: bold;
 }
 
 /* Lien */
@@ -126,10 +128,14 @@ body {
     object-fit: contain;
 }
 
+.horaire {
+    font-size: 0.8em;
+    margin: 0px;
+}
+
 .site-web {
     width: 100%;
     text-align: center;
-    padding: 12px 0;
     font-weight: bold;
     position: absolute;
     bottom: 0;

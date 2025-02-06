@@ -58,15 +58,15 @@
         };
 
         const ecoleLogos = {
-            "IFAG": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
-            "LIT": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
-            "SDC": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
-            "LDS": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
-            "HTBS": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
-            "SIMMO": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
-            "SSB": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
-            "SDM": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
-            "PPI": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png"
+            "IFAG": "https://reseau-opencampus.com/wp-content/uploads/2025/02/5.png",
+            "LIT": "https://reseau-opencampus.com/wp-content/uploads/2024/01/Logo-sticky-LIT-2.png",
+            "SDC": "https://reseau-opencampus.com/wp-content/uploads/2024/01/logo-sdc-couleur.png",
+            "LDS": "https://reseau-opencampus.com/wp-content/uploads/2020/12/LOGO_LDS.png",
+            "HTBS": "https://reseau-opencampus.com/wp-content/uploads/2023/12/nouveau-logo-HOSPITALITY-TOURISM-BUSINESS-SCHOOL-e1704812003871.png",
+            "SIMMO": "https://reseau-opencampus.com/wp-content/uploads/2020/12/SUPIMMOGRAS.png",
+            "SSB": "https://reseau-opencampus.com/wp-content/uploads/2021/11/officiel-SSB-e1655740832387.png",
+            "SDM": "https://reseau-opencampus.com/wp-content/uploads/2024/03/logo-sdm-1-scaled.jpg",
+            "PPI": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical.png"
         };
 
         function createCards(filteredData) {
@@ -80,23 +80,30 @@
                 const schoolColor = ecoleColorsRGB[item.Ecole] || { R: 204, V: 204, B: 204 }; 
                 const schoolLogo = ecoleLogos[item.Ecole] || "";
 
-                card.style.border = `5px solid rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 1)`;
+                card.style.border = `2px solid rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 1)`;
                 card.style.backgroundColor = `rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 0.02)`;
                 card.style.position = "relative";
 
                 card.innerHTML = `
-                    ${schoolLogo ? `<img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo">` : ""}
-                    <img src="${item["Logo entreprise"]}" alt="${item.Entreprise} logo">
-                    <h3>${item.Entreprise}</h3>
-                    <ul class="liste-postes" style="color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},1); font-weight: bold;">
-                    ${item["Liste poste"].map(poste => `<li>${poste}</li>`).join("")}
-                    </ul>
-                    <p class="horaire">${item["Horaire présence"]}</p>
-                    <p class="evenement"><strong>${item.Evenement}</strong></p>
-                    <p><strong>Postes:</strong> ${item["Nb poste"]}</p>
-                    <p><strong>Description:</strong> ${item.Description}</p>
+                    <div class="card-col1">
+                        <img src="${item["Logo entreprise"]}" alt="${item.Entreprise} logo" class="entreprise-logo">
+                    </div>
+                    <div class="card-col2">
+                        <div class="card-title">
+                            <h3>${item.Entreprise}</h3>
+                            <p class="horaire">${item["Horaire présence"]}</p>
+                        </div>
+                        <div class="postes">
+                            <span class="poste-principal">${item["Liste poste"][0]}</span>
+                            <p class="description">${item.Description}</p>
+                        </div>
+                    </div>
+                    <div class="card-col3">
+                        <span class="ecole-logo"><img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo"></span>
+                        <span class="nb-postes">${item["Nb poste"]} ${item["Nb poste"] > 1 ? "postes" : "poste"}</span>
+                    </div>
                     <div class="site-web" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},1);">
-                    <a href="${item["URL Entreprise"]}" target="_blank">Visiter le site web</a>
+                        <a href="${item["URL Entreprise"]}" target="_blank" class="btn-site">Visiter le site</a>
                     </div>
                 `;
                 container.appendChild(card);
