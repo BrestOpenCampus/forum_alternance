@@ -1,0 +1,185 @@
+/* Style global */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Style du menu hamburger */
+.hamburger {
+    display: block;
+    background: #ef7d00;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+/* Cacher le checkbox */
+#menu-toggle {
+    display: none;
+}
+
+/* Masquer le menu des filtres par défaut */
+.filters {
+    display: none;
+    background: white;
+    padding: 15px;
+}
+
+/* Afficher les filtres si le checkbox est activé */
+#menu-toggle:checked ~ .filters {
+    display: block;
+}
+
+/* Conteneur principal */
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+    padding: 15px;
+}
+
+/* Carte par entreprise */
+.card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out, border-color 0.3s ease;
+    text-align: center;
+    max-width: 320px;
+    width: 100%;
+    margin: auto;
+    border: 3px solid transparent;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.card img {
+    max-width: 120px;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+.card h3 {
+    font-size: 16px;
+    margin: 5px 0;
+    color: #222;
+}
+
+.card .horaire {
+    font-size: 14px;
+    color: #555;
+    font-weight: bold;
+}
+
+.card .liste-postes {
+    list-style-type: none;
+    padding: 0; 
+    margin: 0; 
+}
+
+.card .liste-postes li {
+    color: #ef7d00;   
+    font-size: 14px;   
+    font-weight: bold; 
+    margin: 5px 0; 
+}
+
+/* Événement en fond coloré */
+.card .evenement {
+    background-color: #000000;
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 8px;
+    display: inline-block;
+    font-size: 14px;
+    margin: 10px 0;
+}
+
+.card p {
+    font-size: 12px;
+    line-height: 1.4;
+    color: #555;
+}
+
+/* Lien */
+.card a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #ef7d00;
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    transition: background 0.3s ease-in-out;
+}
+
+.card a:hover {
+    background-color: #ef7d00;
+}
+
+/* Filtres */
+.filters {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 100%;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+}
+
+.filtreVille, .filtreEcole {
+    background: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#filterPoste {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.filters input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Responsive : tablette et plus grand */
+@media (min-width: 600px) {
+    .container {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+
+    .filters {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+}
+
+/* Responsive : desktop */
+@media (min-width: 1024px) {
+    .container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .filters {
+        padding: 20px;
+    }
+}
