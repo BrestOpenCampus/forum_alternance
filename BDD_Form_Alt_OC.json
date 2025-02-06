@@ -54,7 +54,7 @@
     },
     "3": {
         "Ville": "Angers",
-        "Ecole": "HTBS",
+        "Ecole": "LIT",
         "Entreprise": "Télégramme",
         "URL Entreprise": "https://reseau-opencampus.com",
         "Logo entreprise": "https://placecats.com/millie/250/150",
@@ -72,7 +72,61 @@
     },
     "4": {
         "Ville": "Brest",
-        "Ecole": "SSB",
+        "Ecole": "SIMMO",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "5": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "6": {
+        "Ville": "Brest",
+        "Ecole": "SDM",
+        "Entreprise": "Arkea",
+        "URL Entreprise": "https://reseau-opencampus.com",
+        "Logo entreprise": "https://placecats.com/250/150",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "FORUM LIBRE",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Facility Manager",
+            "Assistant.e d’agence en alternance"
+        ],
+        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
+        "Tags": [
+            "gestion"
+        ]
+    },
+    "7": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
         "Entreprise": "Arkea",
         "URL Entreprise": "https://reseau-opencampus.com",
         "Logo entreprise": "https://placecats.com/250/150",

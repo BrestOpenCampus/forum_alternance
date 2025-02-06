@@ -56,10 +56,6 @@ body {
     border: 3px solid transparent;
 }
 
-.card:hover {
-    transform: scale(1.02);
-}
-
 .card img {
     max-width: 120px;
     border-radius: 8px;
@@ -85,8 +81,7 @@ body {
     margin: 0; 
 }
 
-.card .liste-postes li {
-    color: #ef7d00;   
+.card .liste-postes li {   
     font-size: 14px;   
     font-weight: bold; 
     margin: 5px 0; 
@@ -113,8 +108,7 @@ body {
 .card a {
     display: inline-block;
     text-decoration: none;
-    background-color: #ef7d00;
-    color: #fff;
+    color: white;
     padding: 6px 10px;
     border-radius: 5px;
     font-size: 12px;
@@ -123,6 +117,15 @@ body {
 
 .card a:hover {
     background-color: #ef7d00;
+}
+
+.ecole-logo {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
 }
 
 /* Filtres */

@@ -1,185 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plaquette forum alternance</title>
-    <style>
-        body {
-            font-family: 'Poppins', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-
-        .hamburger {
-            display: block;
-            background: #ef7d00;
-            color: white;
-            padding: 10px;
-            text-align: center;
-            cursor: pointer;
-        }
-
-        #menu-toggle {
-            display: none;
-        }
-
-        .filters {
-            display: none;
-            background: white;
-            padding: 15px;
-        }
-
-        #menu-toggle:checked ~ .filters {
-            display: block;
-        }
-
-        .container {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 10px;
-            padding: 15px;
-        }
-
-        .card {
-            background: #fff;
-            border-radius: 12px;
-            padding: 15px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease-in-out, border-color 0.3s ease;
-            text-align: center;
-            max-width: 320px;
-            width: 100%;
-            margin: auto;
-            border: 3px solid transparent;
-        }
-
-        .card:hover {
-            transform: scale(1.02);
-        }
-
-        .card img {
-            max-width: 120px;
-            border-radius: 8px;
-            display: block;
-            margin: 0 auto 10px;
-        }
-
-        .card h3 {
-            font-size: 16px;
-            margin: 5px 0;
-            color: #222;
-        }
-
-        .card .horaire {
-            font-size: 14px;
-            color: #555;
-            font-weight: bold;
-        }
-
-        .card .liste-postes {
-            list-style-type: none;
-            padding: 0; 
-            margin: 0; 
-        }
-
-        .card .liste-postes li {
-            color: #ef7d00;   
-            font-size: 14px;   
-            font-weight: bold; 
-            margin: 5px 0; 
-        }
-
-        .card .evenement {
-            background-color: #000000;
-            color: #fff;
-            padding: 6px 12px;
-            border-radius: 8px;
-            display: inline-block;
-            font-size: 14px;
-            margin: 10px 0;
-        }
-
-        .card p {
-            font-size: 12px;
-            line-height: 1.4;
-            color: #555;
-        }
-
-        .card a {
-            display: inline-block;
-            text-decoration: none;
-            background-color: #ef7d00;
-            color: #fff;
-            padding: 6px 10px;
-            border-radius: 5px;
-            font-size: 12px;
-            transition: background 0.3s ease-in-out;
-        }
-
-        .card a:hover {
-            background-color: #ef7d00;
-        }
-
-        .filters {
-            position: absolute;
-            top: 50px;
-            left: 0;
-            width: 100%;
-            background: white;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            z-index: 10;
-        }
-
-        .filtreVille, .filtreEcole {
-            background: #f0f0f0;
-            padding: 10px;
-            border-radius: 5px;
-        }
-
-        #filterPoste {
-            display: block;
-            width: 100%;
-            max-width: 300px;
-            margin: 10px auto;
-            padding: 8px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-        }
-
-        .filters input[type="text"] {
-            width: 100%;
-            padding: 8px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-        }
-
-        @media (min-width: 600px) {
-            .container {
-                grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            }
-
-            .filters {
-                flex-direction: row;
-                align-items: center;
-                justify-content: space-between;
-                flex-wrap: wrap;
-            }
-        }
-
-        @media (min-width: 1024px) {
-            .container {
-                grid-template-columns: repeat(3, 1fr);
-            }
-
-            .filters {
-                padding: 20px;
-            }
-        }
-    </style>
-</head>
+    <link rel="stylesheet" href="Protodesign.css">
+    </head>
 <body>
     <input type="checkbox" id="menu-toggle">
     <label for="menu-toggle" class="hamburger">☰ Filtres</label>
@@ -219,6 +45,30 @@
             return urlParams.get(param);
         }
 
+        const ecoleColorsRGB = {
+            "IFAG": { "R": 220, "V": 13, "B": 21 },
+            "LIT": { "R": 242, "V": 189, "B": 47 },
+            "SDC": { "R": 10, "V": 0, "B": 79 },
+            "LDS": { "R": 231, "V": 43, "B": 90 },
+            "HTBS": { "R": 181, "V": 36, "B": 41 },
+            "SIMMO": { "R": 241, "V": 135, "B": 0 },
+            "SSB": { "R": 239, "V": 126, "B": 170 },
+            "SDM": { "R": 226, "V": 0, "B": 123 },
+            "PPI": { "R": 239, "V": 125, "B": 0 }
+        };
+
+        const ecoleLogos = {
+            "IFAG": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+            "LIT": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+            "SDC": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+            "LDS": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+            "HTBS": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+            "SIMMO": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+            "SSB": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+            "SDM": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+            "PPI": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png"
+        };
+
         function createCards(filteredData) {
             const container = document.getElementById("cardsContainer");
             container.innerHTML = "";
@@ -226,15 +76,26 @@
             Object.values(filteredData).forEach(item => {
                 const card = document.createElement("div");
                 card.className = "card";
+
+                const schoolColor = ecoleColorsRGB[item.Ecole] || { R: 204, V: 204, B: 204 }; 
+                const schoolLogo = ecoleLogos[item.Ecole] || "";
+
+                card.style.border = `5px solid rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 1)`;
+                card.style.backgroundColor = `rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 0.1)`;
+                card.style.position = "relative";
+
                 card.innerHTML = `
+                    ${schoolLogo ? `<img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo">` : ""}
                     <img src="${item["Logo entreprise"]}" alt="${item.Entreprise} logo">
                     <h3>${item.Entreprise}</h3>
                     <p class="horaire">${item["Horaire présence"]}</p>
                     <p class="evenement"><strong>${item.Evenement}</strong></p>
                     <p><strong>Postes:</strong> ${item["Nb poste"]}</p>
-                    <ul class="liste-postes">${item["Liste poste"].map(poste => `<li>${poste}</li>`).join("")}</ul>
+                    <ul class="liste-postes" style="color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},1); font-weight: bold;">
+                    ${item["Liste poste"].map(poste => `<li>${poste}</li>`).join("")}
+                    </ul>
                     <p><strong>Description:</strong> ${item.Description}</p>
-                    <a href="${item["URL Entreprise"]}" target="_blank">Visiter le site</a>
+                    <a href="${item["URL Entreprise"]}" target="_blank" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},1)">Visiter le site</a>
                 `;
                 container.appendChild(card);
             });
