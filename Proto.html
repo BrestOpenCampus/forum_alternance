@@ -81,21 +81,23 @@
                 const schoolLogo = ecoleLogos[item.Ecole] || "";
 
                 card.style.border = `5px solid rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 1)`;
-                card.style.backgroundColor = `rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 0.1)`;
+                card.style.backgroundColor = `rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 0.02)`;
                 card.style.position = "relative";
 
                 card.innerHTML = `
                     ${schoolLogo ? `<img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo">` : ""}
                     <img src="${item["Logo entreprise"]}" alt="${item.Entreprise} logo">
                     <h3>${item.Entreprise}</h3>
-                    <p class="horaire">${item["Horaire présence"]}</p>
-                    <p class="evenement"><strong>${item.Evenement}</strong></p>
-                    <p><strong>Postes:</strong> ${item["Nb poste"]}</p>
                     <ul class="liste-postes" style="color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},1); font-weight: bold;">
                     ${item["Liste poste"].map(poste => `<li>${poste}</li>`).join("")}
                     </ul>
+                    <p class="horaire">${item["Horaire présence"]}</p>
+                    <p class="evenement"><strong>${item.Evenement}</strong></p>
+                    <p><strong>Postes:</strong> ${item["Nb poste"]}</p>
                     <p><strong>Description:</strong> ${item.Description}</p>
-                    <a href="${item["URL Entreprise"]}" target="_blank" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},1)">Visiter le site</a>
+                    <div class="site-web" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},1);">
+                    <a href="${item["URL Entreprise"]}" target="_blank">Visiter le site web</a>
+                    </div>
                 `;
                 container.appendChild(card);
             });
