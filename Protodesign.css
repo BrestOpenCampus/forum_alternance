@@ -212,6 +212,30 @@ body {
     font-size: 0.9em;
 }
 
+.chip {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color: #f8f9fa;
+    color: #333;
+    cursor: pointer;
+    font-size: 0.9em;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    user-select: none;
+}
+
+.chip:hover {
+    background-color: var(--chip-color, #ccc);
+    color: #fff;
+}
+
+.chip.selected {
+    background-color: var(--chip-color, #007bff);
+    color: #fff;
+    border-color: var(--chip-color, #007bff);
+}
+
 #filterPoste {
     display: block;
     width: 100%;

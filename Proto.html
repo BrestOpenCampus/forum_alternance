@@ -17,15 +17,15 @@
             <label><input type="checkbox" class="filterVille" value="Caen"> Caen</label>
         </div>
         <div class="filtreEcole">
-            <label><input type="checkbox" class="filterEcole" value="IFAG"> IFAG</label>
-            <label><input type="checkbox" class="filterEcole" value="LIT"> LEARN IT</label>
-            <label><input type="checkbox" class="filterEcole" value="SDC"> SUP'DE COM</label>
-            <label><input type="checkbox" class="filterEcole" value="LDS"> LA DIGITAL SCHOOL</label>
-            <label><input type="checkbox" class="filterEcole" value="HTBS"> HOSPITALITY AND TOURISM BUSINESS SCHOOL</label>
-            <label><input type="checkbox" class="filterEcole" value="SIMMO"> SUP IMMO</label>
-            <label><input type="checkbox" class="filterEcole" value="SSB"> SCHOOL OF SPORT BUSINESS</label>
-            <label><input type="checkbox" class="filterEcole" value="SDM"> SUPDEMOD</label>
-            <label><input type="checkbox" class="filterEcole" value="PPI"> BAC+2 FORMATION PRÉPA PROFESSIONNELLE INTÉGRÉE</label>
+            <div class="chip" data-value="IFAG" style="--chip-color: #DC0D15;">IFAG</div>
+            <div class="chip" data-value="LIT" style="--chip-color: #F2BD2F;">LEARN IT</div>
+            <div class="chip" data-value="SDC" style="--chip-color: #0A004F;">SUP'DE COM</div>
+            <div class="chip" data-value="LDS" style="--chip-color: #E72B5A;">LA DIGITAL SCHOOL</div>
+            <div class="chip" data-value="HTBS" style="--chip-color: #B52429;">HOSPITALITY AND TOURISM BUSINESS SCHOOL</div>
+            <div class="chip" data-value="SIMMO" style="--chip-color: #F18700;">SUP IMMO</div>
+            <div class="chip" data-value="SSB" style="--chip-color: #EF7EAA;">SCHOOL OF SPORT BUSINESS</div>
+            <div class="chip" data-value="SDM" style="--chip-color: #E2007B;">SUPDEMOD</div>
+            <div class="chip" data-value="PPI" style="--chip-color: #EF7D00;">BAC+2 FORMATION PRÉPA PROFESSIONNELLE INTÉGRÉE</div>
         </div>
     </div>
     <div>
@@ -37,7 +37,7 @@
         async function fetchData() {
             const cacheBuster = new Date().getTime();
             const response = await fetch(`https://forum-alternance.pages.dev/BDD_Form_Alt_OC.json?v=${cacheBuster}`);
-                        return await response.json();
+            return await response.json();
         }
 
         let data = {};
@@ -83,33 +83,30 @@
                 const schoolLogo = ecoleLogos[item.Ecole] || "";
 
                 card.style.backgroundColor = `rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 0.02)`;
-                card.style.position = "relative";
 
                 card.innerHTML = `
-                    <div class="card">
-                        <div class="card-content">
-                            <div class="card-body">
-                                <div class="card-col1">
-                                    <img src="${item["Logo entreprise"]}" alt="${item.Entreprise} logo" class="entreprise-logo">
-                                </div>
-                                <div class="card-col2">
-                                    <div class="card-title">
-                                        <h3>${item.Entreprise}</h3>
-                                        <p class="horaire">${item["Horaire présence"]}</p>
-                                    </div>
-                                    <span class="poste-principal">${item["Liste poste"][0]}</span>
-                                        <p class="description">${item.Description}</p>
-                                    </div>
-                                <div class="card-col3" >
-                                    <div class="ecole-logo-container" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},0.6);">
-                                        <img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo">
-                                    </div>
-                                    <span class="nb-postes">${item["Nb poste"]}<br> ${item["Nb poste"] > 1 ? "postes" : "poste"}</span>
-                                </div>
+                    <div class="card-content">
+                        <div class="card-body">
+                            <div class="card-col1">
+                                <img src="${item["Logo entreprise"]}" alt="${item.Entreprise} logo" class="entreprise-logo">
                             </div>
-                        <div class="site-web" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},1);">
-                        <a href="${item["URL Entreprise"]}" target="_blank" class="btn-site">Visiter le site</a>
+                            <div class="card-col2">
+                                <div class="card-title">
+                                    <h3>${item.Entreprise}</h3>
+                                    <p class="horaire">${item["Horaire présence"]}</p>
+                                </div>
+                                <span class="poste-principal">${item["Liste poste"][0]}</span>
+                                <p class="description">${item.Description}</p>
+                            </div>
+                            <div class="card-col3">
+                                <div class="ecole-logo-container" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 0.6);">
+                                    <img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo">
+                                </div>
+                                <span class="nb-postes">${item["Nb poste"]}<br> ${item["Nb poste"] > 1 ? "postes" : "poste"}</span>
+                            </div>
                         </div>
+                        <div class="site-web" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 1);">
+                            <a href="${item["URL Entreprise"]}" target="_blank" class="btn-site">Visiter le site</a>
                         </div>
                     </div>
                 `;
@@ -118,27 +115,24 @@
         }
 
         function applyFilters() {
-            const selectedVilles = Array.from(document.querySelectorAll(".filterVille:checked")).map(input => input.value);
-            const selectedEcoles = Array.from(document.querySelectorAll(".filterEcole:checked")).map(input => input.value);
-            const filterPoste = document.getElementById("filterPoste").value.toLowerCase();
+            const selectedVilles = Array.from(document.querySelectorAll('.filterVille:checked')).map(input => input.value);
+            const selectedEcoles = Array.from(document.querySelectorAll('.chip.selected')).map(el => el.dataset.value);
 
             const filteredData = Object.values(data).filter(item => {
                 return (
                     (selectedVilles.length === 0 || selectedVilles.includes(item.Ville)) &&
-                    (selectedEcoles.length === 0 || selectedEcoles.includes(item.Ecole)) &&
-                    (filterPoste === "" || item["Liste poste"].some(poste => poste.toLowerCase().includes(filterPoste)))
+                    (selectedEcoles.length === 0 || selectedEcoles.includes(item.Ecole))
                 );
             });
 
             createCards(filteredData);
         }
 
-        // Initial setup
         document.addEventListener("DOMContentLoaded", async () => {
             data = await fetchData();
             createCards(data);
 
-            // Pre-check ville if URL param exists
+            // Pré-sélection via URL
             const villeParam = getQueryParam("ville");
             if (villeParam) {
                 const villeCheckbox = document.querySelector(`.filterVille[value='${villeParam}']`);
@@ -147,28 +141,29 @@
                 }
             }
 
-            // Pre-check ecole if URL param exists
             const ecoleParam = getQueryParam("ecole");
             if (ecoleParam) {
-                const ecoleCheckbox = document.querySelector(`.filterEcole[value='${ecoleParam}']`);
-                if (ecoleCheckbox) {
-                    ecoleCheckbox.checked = true;
-                }
+                document.querySelectorAll('.chip').forEach(chip => {
+                    if (chip.dataset.value === ecoleParam) {
+                        chip.classList.add("selected");
+                    }
+                });
             }
-
 
             applyFilters();
 
-            // Add event listeners for filters
-            document.querySelectorAll(".filterVille").forEach(input => {
-                input.addEventListener("change", applyFilters);
+            // Ajout des événements sur les filtres Ville
+            document.querySelectorAll('.filterVille').forEach(input => {
+                input.addEventListener('change', applyFilters);
             });
 
-            document.querySelectorAll(".filterEcole").forEach(input => {
-                input.addEventListener("change", applyFilters);
+            // Ajout des événements sur les chips École
+            document.querySelectorAll('.chip').forEach(chip => {
+                chip.addEventListener('click', () => {
+                    chip.classList.toggle("selected");
+                    applyFilters();
+                });
             });
-
-            document.getElementById("filterPoste").addEventListener("input", applyFilters);
         });
     </script>
 </body>
