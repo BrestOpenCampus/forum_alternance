@@ -106,7 +106,10 @@ body {
 }
 
 .description {
-    font-size: 0.8em;
+        font-size: 0.8em;
+        margin: 0px;
+        padding-top: 1em;
+        line-height: 1.4em;
 }
 
 .card-title {
@@ -139,6 +142,7 @@ body {
     font-weight: bold;
     text-align: center;
     padding-top: 3em;
+    line-height: 1.2em;
 }
 
 .card a {
