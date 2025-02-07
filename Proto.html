@@ -27,6 +27,8 @@
             <label><input type="checkbox" class="filterEcole" value="SDM"> SDM</label>
             <label><input type="checkbox" class="filterEcole" value="PPI"> PPI</label>
         </div>
+    </div>
+    <div>
         <input type="text" id="filterPoste" placeholder="Recherche par poste">
     </div>
     <div class="container" id="cardsContainer"></div>
@@ -85,25 +87,31 @@
                 card.style.position = "relative";
 
                 card.innerHTML = `
-                    <div class="card-col1">
-                        <img src="${item["Logo entreprise"]}" alt="${item.Entreprise} logo" class="entreprise-logo">
-                    </div>
-                    <div class="card-col2">
-                        <div class="card-title">
-                            <h3>${item.Entreprise}</h3>
-                            <p class="horaire">${item["Horaire présence"]}</p>
-                        </div>
-                        <div class="postes">
-                            <span class="poste-principal">${item["Liste poste"][0]}</span>
-                            <p class="description">${item.Description}</p>
-                        </div>
-                    </div>
-                    <div class="card-col3">
-                        <span class="ecole-logo"><img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo"></span>
-                        <span class="nb-postes">${item["Nb poste"]} ${item["Nb poste"] > 1 ? "postes" : "poste"}</span>
-                    </div>
-                    <div class="site-web" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},1);">
+                    <div class="card">
+                        <div class="card-content">
+                            <div class="card-body">
+                                <div class="card-col1">
+                                    <img src="${item["Logo entreprise"]}" alt="${item.Entreprise} logo" class="entreprise-logo">
+                                </div>
+                                <div class="card-col2">
+                                    <div class="card-title">
+                                        <h3>${item.Entreprise}</h3>
+                                        <p class="horaire">${item["Horaire présence"]}</p>
+                                    </div>
+                                    <span class="poste-principal">${item["Liste poste"][0]}</span>
+                                        <p class="description">${item.Description}</p>
+                                    </div>
+                                <div class="card-col3" >
+                                    <div class="ecole-logo-container" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},0.7);">
+                                        <img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo">
+                                    </div>
+                                    <span class="nb-postes">${item["Nb poste"]} ${item["Nb poste"] > 1 ? "postes" : "poste"}</span>
+                                </div>
+                            </div>
+                        <div class="site-web" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},1);">
                         <a href="${item["URL Entreprise"]}" target="_blank" class="btn-site">Visiter le site</a>
+                        </div>
+                        </div>
                     </div>
                 `;
                 container.appendChild(card);
