@@ -60,14 +60,14 @@
         };
 
         const ecoleLogos = {
-            "IFAG": "https://reseau-opencampus.com/wp-content/uploads/2025/02/5.png",
+            "IFAG": "https://reseau-opencampus.com/wp-content/uploads/2023/10/IFAG_BlocMarque_fond_rouge-e1697102618880.png",
             "LIT": "https://reseau-opencampus.com/wp-content/uploads/2024/01/Logo-sticky-LIT-2.png",
-            "SDC": "https://reseau-opencampus.com/wp-content/uploads/2024/01/logo-sdc-couleur.png",
-            "LDS": "https://reseau-opencampus.com/wp-content/uploads/2020/12/LOGO_LDS.png",
-            "HTBS": "https://reseau-opencampus.com/wp-content/uploads/2023/12/nouveau-logo-HOSPITALITY-TOURISM-BUSINESS-SCHOOL-e1704812003871.png",
+            "SDC": "https://reseau-opencampus.com/wp-content/uploads/2024/01/TESTS-DADMISSIONS.png",
+            "LDS": "https://reseau-opencampus.com/wp-content/uploads/2025/02/LDS_bloc_blanc_300dpi.png",
+            "HTBS": "https://reseau-opencampus.com/wp-content/uploads/2023/12/nouveau-logo-VB-HOSPITALITY-TOURISM-BUSINESS-SCHOOL.png",
             "SIMMO": "https://reseau-opencampus.com/wp-content/uploads/2020/12/SUPIMMOGRAS.png",
             "SSB": "https://reseau-opencampus.com/wp-content/uploads/2021/11/officiel-SSB-e1655740832387.png",
-            "SDM": "https://reseau-opencampus.com/wp-content/uploads/2024/03/logo-sdm-1-scaled.jpg",
+            "SDM": "https://reseau-opencampus.com/wp-content/uploads/2025/02/8.png",
             "PPI": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical.png"
         };
 
@@ -82,7 +82,6 @@
                 const schoolColor = ecoleColorsRGB[item.Ecole] || { R: 204, V: 204, B: 204 }; 
                 const schoolLogo = ecoleLogos[item.Ecole] || "";
 
-                card.style.border = `2px solid rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 1)`;
                 card.style.backgroundColor = `rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 0.02)`;
                 card.style.position = "relative";
 
@@ -105,7 +104,7 @@
                                     <div class="ecole-logo-container" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},0.7);">
                                         <img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo">
                                     </div>
-                                    <span class="nb-postes">${item["Nb poste"]} ${item["Nb poste"] > 1 ? "postes" : "poste"}</span>
+                                    <span class="nb-postes">${item["Nb poste"]}<br> ${item["Nb poste"] > 1 ? "postes" : "poste"}</span>
                                 </div>
                             </div>
                         <div class="site-web" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B},1);">
