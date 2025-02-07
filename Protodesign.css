@@ -21,13 +21,6 @@ body {
     display: none;
 }
 
-/* Masquer le menu des filtres par défaut */
-.filters {
-    display: none;
-    background: white;
-    padding: 15px;
-}
-
 /* Afficher les filtres si le checkbox est activé */
 #menu-toggle:checked ~ .filters {
     display: block;
@@ -45,7 +38,7 @@ body {
 .card {
     background: #fff;
     border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 9px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -79,7 +72,7 @@ body {
 }
 
 .card h3 {
-    font-size: 16px;
+    font-size: 20px;
     margin: 5px 0;
     color: #222;
 }
@@ -118,10 +111,11 @@ body {
     align-items: baseline;
 }
 
-.card .poste-principal{   
+.card .poste-principal{
     background-color: #1D1D1D;
     border-radius: 1em;
     padding: 0.2em .6em;
+    width: fit-content;
     color: #FFF;
     font-size: 0.9em;
 }
@@ -139,6 +133,7 @@ body {
 .nb-postes {
     font-weight: bold;
     text-align: center;
+    padding-top: 3em;
 }
 
 .card a {
@@ -156,7 +151,7 @@ body {
     right: 0;
     width: 45px;
     height: 45px;
-    border-bottom-left-radius: 50%;
+    border-bottom-left-radius: 30%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -193,8 +188,8 @@ body {
 
 /* Filtres */
 .filters {
+    display: none;
     position: absolute;
-    top: 50px;
     left: 0;
     width: 100%;
     background: white;
