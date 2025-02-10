@@ -86,28 +86,28 @@
 
                 card.innerHTML = `
                     <div class="card-content">
-                            <div class="card-body">
-                                    <div class="card-col1">
-                                            <img src="${item["Logo entreprise"]}" alt="${item.Entreprise} logo" class="entreprise-logo">
-                                    </div>
-                                    <div class="card-col2">
-                                            <div class="card-title">
-                                                    <h3>${item.Entreprise}</h3>
-                                                    <p class="horaire">${item["Horaire présence"]}</p>
-                                            </div>
-                                            <span class="poste-principal">${item["Liste poste"][0]}</span>
-                                            <p class="description">${item.Description}</p>
-                                    </div>
-                                    <div class="card-col3">
-                                            <div class="ecole-logo-container" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 0.6);">
-                                                    <img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo">
-                                            </div>
-                                            <span class="nb-postes">${item["Nb poste"]}<br> ${item["Nb poste"] > 1 ? "postes" : "poste"}</span>
-                                    </div>
+                        <div class="card-body">
+                            <div class="card-col1">
+                                <img src="${item["Logo entreprise"]}" alt="${item.Entreprise} logo" class="entreprise-logo">
                             </div>
-                            <div class="site-web" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 1);">
-                                    <a href="${item["URL Entreprise"]}" target="_blank" class="btn-site">Visiter le site</a>
+                            <div class="card-col2">
+                                <div class="card-title">
+                                    <h3>${item.Entreprise}</h3>
+                                    <p class="horaire">${item["Horaire présence"]}</p>
+                                </div>
+                                <span class="poste-principal">${item["Liste poste"][0]}</span>
+                                <p class="description">${item.Description}</p>
                             </div>
+                            <div class="card-col3">
+                                <div class="ecole-logo-container" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 0.6);">
+                                    <img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo">
+                                </div>
+                                <span class="nb-postes">${item["Nb poste"]}<br> ${item["Nb poste"] > 1 ? "postes" : "poste"}</span>
+                            </div>
+                        </div>
+                        <div class="site-web" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 1);">
+                            <a href="${item["URL Entreprise"]}" target="_blank" class="btn-site">Visiter le site</a>
+                        </div>
                     </div>
                 `;
                 container.appendChild(card);
