@@ -228,6 +228,7 @@ body {
 .chip.selected:after{
     color: var(--chip-color, #007bff);
     content: "  ✕";
+    font-size: 0.8em;
 }
 
 .filtreEcole {
