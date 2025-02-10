@@ -137,10 +137,11 @@
             // Pré-sélection via URL
             const villeParam = getQueryParam("ville");
             if (villeParam) {
-                const villeCheckbox = document.querySelector(`.filterVille[value='${villeParam}']`);
-                if (villeCheckbox) {
-                    villeCheckbox.checked = true;
-                }
+                document.querySelectorAll('.filterVille').forEach(villeCheckbox => {
+                    if (villeCheckbox.value.toLowerCase() === villeParam.toLowerCase()) {
+                        villeCheckbox.checked = true;
+                    }
+                });
             }
 
             const ecoleParam = getQueryParam("ecole");
