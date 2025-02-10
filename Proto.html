@@ -29,7 +29,7 @@
         </div>
     </div>
     <div>
-        <input type="text" id="filterPoste" placeholder="Recherche par poste">
+        <input type="text" id="filterPoste" placeholder="Rechercher par poste">
     </div>
     <div class="container" id="cardsContainer"></div>
 
@@ -86,28 +86,28 @@
 
                 card.innerHTML = `
                     <div class="card-content">
-                        <div class="card-body">
-                            <div class="card-col1">
-                                <img src="${item["Logo entreprise"]}" alt="${item.Entreprise} logo" class="entreprise-logo">
+                            <div class="card-body">
+                                    <div class="card-col1">
+                                            <img src="${item["Logo entreprise"]}" alt="${item.Entreprise} logo" class="entreprise-logo">
+                                    </div>
+                                    <div class="card-col2">
+                                            <div class="card-title">
+                                                    <h3>${item.Entreprise}</h3>
+                                                    <p class="horaire">${item["Horaire présence"]}</p>
+                                            </div>
+                                            <span class="poste-principal">${item["Liste poste"][0]}</span>
+                                            <p class="description">${item.Description}</p>
+                                    </div>
+                                    <div class="card-col3">
+                                            <div class="ecole-logo-container" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 0.6);">
+                                                    <img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo">
+                                            </div>
+                                            <span class="nb-postes">${item["Nb poste"]}<br> ${item["Nb poste"] > 1 ? "postes" : "poste"}</span>
+                                    </div>
                             </div>
-                            <div class="card-col2">
-                                <div class="card-title">
-                                    <h3>${item.Entreprise}</h3>
-                                    <p class="horaire">${item["Horaire présence"]}</p>
-                                </div>
-                                <span class="poste-principal">${item["Liste poste"][0]}</span>
-                                <p class="description">${item.Description}</p>
+                            <div class="site-web" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 1);">
+                                    <a href="${item["URL Entreprise"]}" target="_blank" class="btn-site">Visiter le site</a>
                             </div>
-                            <div class="card-col3">
-                                <div class="ecole-logo-container" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 0.6);">
-                                    <img src="${schoolLogo}" alt="${item.Ecole} logo" class="ecole-logo">
-                                </div>
-                                <span class="nb-postes">${item["Nb poste"]}<br> ${item["Nb poste"] > 1 ? "postes" : "poste"}</span>
-                            </div>
-                        </div>
-                        <div class="site-web" style="background-color: rgba(${schoolColor.R}, ${schoolColor.V}, ${schoolColor.B}, 1);">
-                            <a href="${item["URL Entreprise"]}" target="_blank" class="btn-site">Visiter le site</a>
-                        </div>
                     </div>
                 `;
                 container.appendChild(card);
@@ -117,12 +117,14 @@
         function applyFilters() {
             const selectedVilles = Array.from(document.querySelectorAll('.filterVille:checked')).map(input => input.value);
             const selectedEcoles = Array.from(document.querySelectorAll('.chip.selected')).map(el => el.dataset.value);
+            const searchText = document.getElementById('filterPoste').value.toLowerCase();
 
             const filteredData = Object.values(data).filter(item => {
-                return (
-                    (selectedVilles.length === 0 || selectedVilles.includes(item.Ville)) &&
-                    (selectedEcoles.length === 0 || selectedEcoles.includes(item.Ecole))
-                );
+                const matchesVille = selectedVilles.length === 0 || selectedVilles.includes(item.Ville);
+                const matchesEcole = selectedEcoles.length === 0 || selectedEcoles.includes(item.Ecole);
+                const matchesText = searchText === "" || item["Liste poste"].some(poste => poste.toLowerCase().includes(searchText));
+
+                return matchesVille && matchesEcole && matchesText;
             });
 
             createCards(filteredData);
@@ -164,6 +166,12 @@
                     applyFilters();
                 });
             });
+
+            // Ajout d'un événement sur le champ de recherche
+            const filterPosteInput = document.getElementById('filterPoste');
+            if (filterPosteInput) {
+                filterPosteInput.addEventListener('input', applyFilters);
+            }
         });
     </script>
 </body>
