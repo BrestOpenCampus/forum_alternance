@@ -6,11 +6,6 @@ body {
     color: #333;
 }
 
-.filtreEcole {
-    display: flex;
-    flex-direction: column;
-}
-
 /* Style du menu hamburger */
 .hamburger {
     display: block;
@@ -219,21 +214,27 @@ body {
     background-color: #f8f9fa;
     color: #333;
     cursor: pointer;
-    font-size: 0.9em;
+    font-size: 0.8em;
     font-weight: bold;
     transition: all 0.3s ease;
     user-select: none;
 }
 
-.chip:hover {
-    background-color: var(--chip-color, #ccc);
-    color: #fff;
+.chip.selected {
+    color: var(--chip-color, #007bff);
+    border-color: var(--chip-color, #007bff);
 }
 
-.chip.selected {
-    background-color: var(--chip-color, #007bff);
-    color: #fff;
-    border-color: var(--chip-color, #007bff);
+.chip.selected:after{
+    color: var(--chip-color, #007bff);
+    content: "  ✕";
+}
+
+.filtreEcole {
+    display: flex;
+    flex-direction: row;
+    gap: 0.6em;
+    flex-wrap: wrap;
 }
 
 #filterPoste {
