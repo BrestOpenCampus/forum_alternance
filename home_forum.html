@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forum Alternance - Ville</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+        }
+        .plan-salon, .entreprises, .conferences, .offres-alt {
+            background-color: #ffffff;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .entreprises ul, .conferences ul {
+            list-style: none;
+            padding: 0;
+        }
+        .entreprises ul li, .conferences ul li {
+            margin-bottom: 10px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            text-align: center;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1 id="villeName">Ville</h1>
+</header>
+
+<section>
+    <div class="plan-salon">
+        <h2>Plan du salon</h2>
+        <p>Retrouvez ici le plan interactif du salon, pour vous repérer et accéder rapidement aux différents stands.</p>
+        <div style="height: 200px; background-color: #ddd; display: flex; justify-content: center; align-items: center; border-radius: 5px;">
+            <p>Placeholder pour le plan (ex. image ou lien)</p>
+        </div>
+    </div>
+
+    <div class="entreprises">
+        <h2>Liste des entreprises</h2>
+        <p>Voici les entreprises présentes dans cette ville. Découvrez leurs offres et passez sur leur stand pour en savoir plus.</p>
+        <ul id="entreprisesList">
+            <li>Chargement des entreprises...</li>
+        </ul>
+    </div>
+
+    <div class="conferences">
+        <h2>Conférences</h2>
+        <p>Assistez aux conférences animées par des experts. Les sujets couvriront les tendances du marché, des conseils pour décrocher une alternance, et bien plus.</p>
+        <ul id="conferencesList">
+            <li>Les informations sur les conférences seront bientôt disponibles.</li>
+        </ul>
+    </div>
+
+    <div class="offres-alt">
+        <h2>Offres d'alternance</h2>
+        <p>Explorez toutes les offres d’alternance disponibles. Ce forum est l’occasion parfaite pour trouver l’opportunité qui correspond à votre projet professionnel.</p>
+        <a href="#" class="btn">Découvrir les offres</a>
+    </div>
+</section>
+
+<script>
+    async function fetchData() {
+        const cacheBuster = new Date().getTime();
+        const response = await fetch(`https://forum-alternance.pages.dev/BDD_Form_Alt_OC.json?v=${cacheBuster}`);
+        return await response.json();
+    }
+
+    function getQueryParam(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(param);
+    }
+
+    document.addEventListener("DOMContentLoaded", async () => {
+        const villeParam = getQueryParam("ville");
+        const villeNameElement = document.getElementById("villeName");
+        const entreprisesList = document.getElementById("entreprisesList");
+
+        if (villeParam) {
+            // Affiche le nom de la ville
+            villeNameElement.textContent = "Forum de l'alternance à " + villeParam;
+
+            // Charge les données et filtre par ville
+            const data = await fetchData();
+            const entreprises = Object.values(data).filter(item => item.Ville.toLowerCase() === villeParam.toLowerCase());
+
+            // Affiche la liste des entreprises
+            if (entreprises.length > 0) {
+                entreprisesList.innerHTML = entreprises.map(item => `
+                    <li>
+                        <strong>${item.Entreprise}</strong>
+                    </li>
+                `).join("");
+            } else {
+                entreprisesList.innerHTML = "<li>Aucune entreprise trouvée pour cette ville.</li>";
+            }
+        } else {
+            villeNameElement.textContent = "Ville non spécifiée";
+            entreprisesList.innerHTML = "<li>Veuillez sélectionner une ville dans l'URL.</li>";
+        }
+    });
+</script>
+
+</body>
+</html>
