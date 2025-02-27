@@ -1,145 +1,100 @@
 {
     "0": {
-        "Ville": "Angers",
-        "Ecole": "HTBS",
-        "Entreprise": "Télégramme",
-        "URL Entreprise": "https://reseau-opencampus.com",
-        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
-        "Horaire présence": "14h - 19h",
-        "Evenement": "JOB DATING",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Chargé.e d’études en marketing"
-        ],
-        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
-        "Tags": [
-            "commerce",
-            "marketing"
-        ]
-    },
-    "1": {
         "Ville": "Brest",
-        "Ecole": "SSB",
-        "Entreprise": "Arkea",
-        "URL Entreprise": "https://reseau-opencampus.com",
-        "Logo entreprise": "https://www.cm-arkea.com/arkea/banque/upload/docs/image/png/2023-11/doportletimagelogoheader.png.associated/th-238x131-doportletimagelogoheader.png.webp",
-        "Horaire présence": "14h - 16h",
-        "Evenement": "FORUM LIBRE",
-        "Nb poste": 2,
-        "Liste poste": [
-            "Facility Manager",
-            "Assistant.e d’agence en alternance"
-        ],
-        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
-        "Tags": [
-            "gestion"
-        ]
-    },
-    "2": {
-        "Ville": "Caen",
-        "Ecole": "LDS",
-        "Entreprise": "GOC",
-        "URL Entreprise": "https://reseau-opencampus.com",
-        "Logo entreprise": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+        "Ecole": "LIT",
+        "Entreprise": "Tsifi",
+        "URL Entreprise": "https://tsifi.tsifi.com/",
+        "Logo entreprise": "https://tsifi.tsifi.com/wp-content/uploads/2025/01/Logo-TSIFi.png",
         "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
         "Nb poste": 1,
         "Liste poste": [
-            "Developpeur Web"
+            "Administrateur Systèmes et Réseaux"
         ],
-        "Description": "Création de point d’API Rest d’après des spécifications fonctionnelles avec Api Platform - Symfony (Php)",
-        "Tags": [
-            "informatique"
-        ]
+        "Description": "Réaliser le support  •Installer les postes de travail et effectuer leur maintenance  • Déployer les éléments réseaux  • Participation aux RDV clients avec notre Dirigeant  •Analyse des besoins des clients ainsi que la proposition de solutions adaptées  •Participer à des projets divers en informatique  •Documenter les procédures"
     },
-    "3": {
-        "Ville": "Angers",
+    "1": {
+        "Ville": "Brest",
         "Ecole": "LIT",
-        "Entreprise": "Télégramme",
-        "URL Entreprise": "https://reseau-opencampus.com",
-        "Logo entreprise": "https://placecats.com/millie/250/150",
+        "Entreprise": "Apside",
+        "URL Entreprise": "https://www.apside.com/fr/",
+        "Logo entreprise": "https://frenchtech-prod.s3.fr-par.scw.cloud/i9lthgxgpbz6o4pm4wdw29vitty9",
         "Horaire présence": "14h - 19h",
-        "Evenement": "JOB DATING",
+        "Evenement": "JOB DATING & FORUM LIBRE",
         "Nb poste": 1,
         "Liste poste": [
-            "Chargé.e d’études en marketing"
+            "Alternance en développement Logiciel/web"
         ],
-        "Description": "Exploiter et analyser les études d’audience référentes du marché • Exploiter et analyser les études concernant les marchés • Benchmark et analyse",
-        "Tags": [
-            "commerce",
-            "marketing"
-        ]
+        "Description": "Concevoir, développer et tester des applications internes ou dédiées à nos clients telles que le suivi des formations, des projets ou des collaborateurs  •Travailler avec des technologies comme Java, Javascript/TypeScript  •Explorer différents frameworks : spring, react, angular, VueJS  •Manipuler des bases de données SQL  •Découvrir les bonnes pratiques Devops (Docker, Git, CI/CD)"
+    },
+    "2": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Les Vitrines de Brest",
+        "URL Entreprise": "https://www.vitrines-brest.fr/",
+        "Logo entreprise": "https://photos.infolocale.fr/infolocale/organisme/325/325075/logo/20160209151519.jpg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant(e) communication"
+        ],
+        "Description": " • Participer activement la réalisation de supports de communication très variés : affiches, flyers, newsletters, sondages/enquêtes, dossier partenaires, diaporamas, montages vidéos, posts réseaux sociaux • Collaborer à l'organisation d'évènements divers, que ce soit en interne (réunions, CA, AG, groupes de travail, petits déjeuners..) ou en externe (opérations pour animer le centre-ville )  • Savoir manier les outils web et développer la visibilité de l'Association sur internet, mettre à jour le site internet, gérer, veiller et développer les réseaux sociaux, (FB,insta..) •Collaborer à l'élaboration des différents plans médias et à la gestion des relations presse •Effectuer également des tâches qui relèvent davantage du secrétariat : prise de notes lors des réunions, rédactions de comptes rendus, distribution de documents aux adhérents  •Maitriser les outils de communication (word, excel, au minima Canva, Google Forms, Meta Business suite..)"
+    },
+    "3": {
+        "Ville": "Brest",
+        "Ecole": "HTBS",
+        "Entreprise": "Hotel Bellevue",
+        "URL Entreprise": "https://hotelbellevue.fr/",
+        "Logo entreprise": "https://hotelbellevue.fr/wp-content/uploads/2023/10/logo-hotel-bellevue-brest.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Réceptionniste polyvalent"
+        ],
+        "Description": "Assurer l'accueil physique et téléphonique des clients • Fournir des informations sur les services de l'hôtel et les attractions locales • Assurer la satisfaction des clients en traitant leurs demandes •Préparer les petits déjeuners et autres services annexes proposés par l'hôtel •Gérer les réservations et les comptes clients, effectuer les check-in et check-out •Assurer les astreintes de la réception de l'établissement pendant les nuits d’astreintes •Gérer l'entretien du linge et le suivi des prestataires et partenaires •Assurer le maintien de l'état de propreté des infrastructures de l'établissement •Participer à l'entretien et au ménage des chambres avec le service d’étage."
     },
     "4": {
         "Ville": "Brest",
-        "Ecole": "SIMMO",
-        "Entreprise": "Arkea",
-        "URL Entreprise": "https://reseau-opencampus.com",
-        "Logo entreprise": "https://placecats.com/250/150",
+        "Ecole": "IFAG",
+        "Entreprise": "Kermeur spirits",
+        "URL Entreprise": "https://www.produitenbretagne.bzh/nos-membres/kermeur-spirits/",
+        "Logo entreprise": "https://img-proxy-service.produitenbretagne.bzh/SFe_Slmo9KUrjvUMdvez1XwZ2kQ=/fit-in/400x200/https://s3.fr-par.scw.cloud/medias-produitenbretagne-bzh/companies/901a215e-746d-4b58-b000-30b82c6877b0/logo/d7203634-b705-44e7-94f3-e220eb1056e7.png",
         "Horaire présence": "14h - 16h",
-        "Evenement": "FORUM LIBRE",
-        "Nb poste": 2,
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
         "Liste poste": [
-            "Facility Manager",
-            "Assistant.e d’agence en alternance"
+            "Chef de projet événementiel/Marketing- H/F"
         ],
-        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
-        "Tags": [
-            "gestion"
-        ]
+        "Description": "En étroite collaboration avec la Responsable, vous aurez pour missions d’organiser le projet à dimension régionale dans le domaine de l'événementiel - commercial – marketing : le TY TOUR ! Le but de ce projet est de conquérir un territoire dans toutes dimensions : numérique ; commerciale ; conviviale ; relationnel. Ce projet Ty Tour doit être piloté et réalisé sur une période de 6 mois de stage minimum (soit de Mars à août 2025). Des partenariats pour différents festivals et évènement sportifs sont également à planifier et à négocier."
     },
     "5": {
         "Ville": "Brest",
         "Ecole": "IFAG",
-        "Entreprise": "Arkea",
-        "URL Entreprise": "https://reseau-opencampus.com",
-        "Logo entreprise": "https://placecats.com/250/150",
-        "Horaire présence": "14h - 16h",
-        "Evenement": "FORUM LIBRE",
-        "Nb poste": 2,
+        "Entreprise": "Primark",
+        "URL Entreprise": "https://www.primark.com/fr-fr",
+        "Logo entreprise": "https://primedia.primark.com/i/primark/Primark_logo24?$logo-regulardesktop$&fmt=auto",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
         "Liste poste": [
-            "Facility Manager",
-            "Assistant.e d’agence en alternance"
+            "Commercial"
         ],
-        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
-        "Tags": [
-            "gestion"
-        ]
+        "Description": "• Management : vous animez les équipes de vente ; • Gestion de budget : accroître les ventes et les résultats, saisir toutes les opportunités commerciales ; • Gestion des stocks : vous analysez vos ventes, préconisez les commandes de produits de votre périmètre en conséquence et vous gérez vos stocks  • Merchandising : vous êtes le/la garant(e) de l’excellence des normes visuelles du groupe ; • Respect des normes opérationnelles, d’hygiène et de sécurité : veiller à la bonne application globale de la politique Primark."
     },
     "6": {
         "Ville": "Brest",
-        "Ecole": "SDM",
-        "Entreprise": "Arkea",
-        "URL Entreprise": "https://reseau-opencampus.com",
-        "Logo entreprise": "https://placecats.com/250/150",
-        "Horaire présence": "14h - 16h",
-        "Evenement": "FORUM LIBRE",
-        "Nb poste": 2,
+        "Ecole": "IFAG",
+        "Entreprise": "Emily",
+        "URL Entreprise": "https://www.emily.fr/",
+        "Logo entreprise": "https://www.emily.fr/wp-content/uploads/2020/06/logo-emily.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
         "Liste poste": [
-            "Facility Manager",
-            "Assistant.e d’agence en alternance"
+            "Assistant(e) commercial(e) export"
         ],
-        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
-        "Tags": [
-            "gestion"
-        ]
-    },
-    "7": {
-        "Ville": "Brest",
-        "Ecole": "SDC",
-        "Entreprise": "Arkea",
-        "URL Entreprise": "https://reseau-opencampus.com",
-        "Logo entreprise": "https://placecats.com/250/150",
-        "Horaire présence": "14h - 16h",
-        "Evenement": "FORUM LIBRE",
-        "Nb poste": 2,
-        "Liste poste": [
-            "Facility Manager",
-            "Assistant.e d’agence en alternance"
-        ],
-        "Description": "Assister la Responsable de secteur sur le quotidien de la gestion de planning (établissements des plannings, gestion des imprévus et des modifications d’interventions)",
-        "Tags": [
-            "gestion"
-        ]
+        "Description": "Missions en termes de support animation du réseau de distribution : ? Identifier les opportunités et les besoins du marché, en effectuant une veille sur les pays cibles. Réaliser pour cela des analyses permettant de prioriser les actions de prospection en fonction du potentiel de développement de la zone ciblée. ? Être en support de l’équipe commerciale pour l’animation du réseau de partenaires existants, tant sur le plan commercial, technique, marketing et organisationnel, en s’adaptant aux besoins des différentes cultures. ? Être en support du Responsable des Ventes Export dans la gestion administrative, marketing et commerciale de la filiale Emily North America afin d’atteindre les objectifs de ventes sur le marché américain. ? Assurer une prospection commerciale depuis le siège social de la société, par téléphone / mail / visio, en collaboration avec l’équipe commerciale. ? Elaborer des plans d’actions de Marketing Digital (RS, Adwords, Display) en fournissant à l’Equipe Marketing l’ensemble des éléments nécessaires et inhérents au pays ciblé. ? Réaliser une veille de l’action de la concurrence permettant de mettre en place des offensives commerciales et/ou des contre-argumentaires de vente. ? Participer aux actions de communication organisées par la Direction, aux salons ou toutes autres manifestations commerciales auxquelles la société souhaite être présente Missions de vente : ? En collaboration avec l’équipe commerciale, mener à bonne fin l'acte de vente des matériels, de la rédaction d’offres à la livraison du matériel, en réalisant les formalités export : suivi règlement, formalités douanières, transport, incoterm. ? Réaliser la promotion, les offres commerciales et les ventes de la gamme de produits de la société sur les secteurs ciblés. ? S’assurer de la solvabilité des clients, de fournir à la société tous renseignements utiles à ce sujet. ? Appliquer la Politique Commerciale définie par la direction en termes de remise, de délais de paiement et délais de livraison. Missions annexes : ? Assurer la remontée des informations terrains et des demandes des clients. ? Fournir régulièrement à la Direction, tous les renseignements sur la situation du marché, des efforts de la concurrence et la diffusion des produits commercialisés. ? Travailler en toute transparence avec l’ensemble de l’équipe commerciale Export, mais aussi avec le service Technique, Marketing, R&D, Production et Comptabilité afin d’assurer une offre complète de produits et de services premium à l’ensemble de nos clients. ? Se conformer à l'organisation interne pour assurer une parfaite gestion des différentes tâches commerciales : classement des propositions, suivi des affaires en cours, mise à jour des fichiers CRM et logiciel de devis."
     }
 }
