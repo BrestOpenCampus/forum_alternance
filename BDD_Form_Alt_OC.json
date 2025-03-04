@@ -761,25 +761,11 @@
         "Evenement": "JOB DATING & FORUM LIBRE",
         "Nb poste": 1,
         "Liste poste": [
-            "Assistant marketing"
-        ],
-        "Description": "Mise en œuvre et suivi du plan commercial et marketing. Suivi des offres et opérations spéciales. Création et mise à jour des outils d’aide à la vente. Analyse des études de marché, KPIs et veille concurrentielle. Optimisation des produits digitaux si nécessaire."
-    },
-    "55": {
-        "Ville": "Brest",
-        "Ecole": "IFAG",
-        "Entreprise": "Le télégramme",
-        "URL Entreprise": "https://www.letelegramme.fr/",
-        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
-        "Horaire présence": "14h - 19h",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
             "Chargé de développement commercial"
         ],
         "Description": "Organisation et animation de formations commerciales pour équipes et étudiants. Identification et développement de nouveaux canaux de prospection. Gestion et suivi des Raids étudiants et relations avec les écoles. Planification et suivi des événements commerciaux (foires, salons, partenariats)."
     },
-    "56": {
+    "55": {
         "Ville": "Brest",
         "Ecole": "LIT",
         "Entreprise": "Le télégramme",
@@ -793,21 +779,7 @@
         ],
         "Description": "Gestion et maintenance des postes de travail et serveurs. Supervision et résolution des incidents. Assistance technique et mise à jour de la base de connaissances. Rédaction de rapports techniques et amélioration des procédures. Veille technologique active."
     },
-    "57": {
-        "Ville": "Brest",
-        "Ecole": "SDC",
-        "Entreprise": "Le télégramme",
-        "URL Entreprise": "https://www.letelegramme.fr/",
-        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
-        "Horaire présence": "14h - 19h",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Chargé de communication"
-        ],
-        "Description": "Captation et montage vidéo d’événements internes. Création de supports visuels (logos, affiches, infographies, documents). Gestion et mise à jour des contenus pour l’intranet et les réseaux internes. Organisation et animation d’événements internes (séminaires, concours). Structuration et gestion de la banque d’images du groupe."
-    },
-    "58": {
+    "56": {
         "Ville": "Brest",
         "Ecole": "SDC",
         "Entreprise": "Les Vitrines de Brest",
@@ -821,9 +793,37 @@
         ],
         "Description": "Création de supports de communication variés (affiches, vidéos, newsletters). Organisation d’événements internes et externes. Gestion du site web et des réseaux sociaux. Élaboration des plans médias et relations presse. Tâches administratives (prises de notes, comptes rendus, gestion documentaire)."
     },
-    "59": {
+    "57": {
         "Ville": "Brest",
         "Ecole": "IFAG",
+        "Entreprise": "Lumy",
+        "URL Entreprise": "https://agence-lumy.fr/",
+        "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Growth hacker"
+        ],
+        "Description": "Mise en place de stratégies growth hacking pour une acquisition à faible coût. Analyse des données et optimisation des canaux marketing. Développement de la présence digitale et animation de communauté. Création de campagnes à budget limité. Organisation d’événements, partenariats et placements de produits."
+    },
+    "58": {
+        "Ville": "Brest",
+        "Ecole": "LDS",
+        "Entreprise": "Lumy",
+        "URL Entreprise": "https://agence-lumy.fr/",
+        "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Growth hacker"
+        ],
+        "Description": "Mise en place de stratégies growth hacking pour une acquisition à faible coût. Analyse des données et optimisation des canaux marketing. Développement de la présence digitale et animation de communauté. Création de campagnes à budget limité. Organisation d’événements, partenariats et placements de produits."
+    },
+    "59": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
         "Entreprise": "Lumy",
         "URL Entreprise": "https://agence-lumy.fr/",
         "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
@@ -838,34 +838,6 @@
     "60": {
         "Ville": "Brest",
         "Ecole": "LDS",
-        "Entreprise": "Lumy",
-        "URL Entreprise": "https://agence-lumy.fr/",
-        "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
-        "Horaire présence": "14h - 19h",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Growth hacker"
-        ],
-        "Description": "Mise en place de stratégies growth hacking pour une acquisition à faible coût. Analyse des données et optimisation des canaux marketing. Développement de la présence digitale et animation de communauté. Création de campagnes à budget limité. Organisation d’événements, partenariats et placements de produits."
-    },
-    "61": {
-        "Ville": "Brest",
-        "Ecole": "SDC",
-        "Entreprise": "Lumy",
-        "URL Entreprise": "https://agence-lumy.fr/",
-        "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
-        "Horaire présence": "14h - 19h",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Growth hacker"
-        ],
-        "Description": "Mise en place de stratégies growth hacking pour une acquisition à faible coût. Analyse des données et optimisation des canaux marketing. Développement de la présence digitale et animation de communauté. Création de campagnes à budget limité. Organisation d’événements, partenariats et placements de produits."
-    },
-    "62": {
-        "Ville": "Brest",
-        "Ecole": "LDS",
         "Entreprise": "Moulin d'elise",
         "URL Entreprise": "https://www.moulindelise.com/",
         "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
@@ -877,21 +849,7 @@
         ],
         "Description": "Création de visuels et gestion de projets graphiques. Recherche d’inspiration et veille sur les tendances design. Maîtrise des logiciels et préparation des fichiers pour impression/web. Travail en équipe et communication."
     },
-    "63": {
-        "Ville": "Brest",
-        "Ecole": "LDS",
-        "Entreprise": "Moulin d'elise",
-        "URL Entreprise": "https://www.moulindelise.com/",
-        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
-        "Horaire présence": "14h - 19h",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Apprenti Infographie"
-        ],
-        "Description": "Création de visuels et gestion de projets graphiques. Recherche d’inspiration et veille sur les tendances design. Maîtrise des logiciels et préparation des fichiers pour impression/web. Travail en équipe et communication."
-    },
-    "64": {
+    "61": {
         "Ville": "Brest",
         "Ecole": "IFAG",
         "Entreprise": "Moulin d'élise",
@@ -905,7 +863,7 @@
         ],
         "Description": "Accueil et conseil client, développement des ventes. Gestion des stocks, encaissement et mise en rayon. Ouverture/fermeture du magasin et entretien de l’espace de vente. Communication, marketing et gestion administrative. Management d’équipe et projets d’amélioration."
     },
-    "65": {
+    "62": {
         "Ville": "Brest",
         "Ecole": "PPI",
         "Entreprise": "Moulin d'élise",
@@ -919,21 +877,7 @@
         ],
         "Description": "Accueil et conseil client, développement des ventes. Gestion des stocks, encaissement et mise en rayon. Ouverture/fermeture du magasin et entretien de l’espace de vente. Communication, marketing et gestion administrative. Management d’équipe et projets d’amélioration."
     },
-    "66": {
-        "Ville": "Brest",
-        "Ecole": "PPI",
-        "Entreprise": "Moulin d'élise",
-        "URL Entreprise": "https://www.moulindelise.com/",
-        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
-        "Horaire présence": "14h - 19h",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Apprenti vente"
-        ],
-        "Description": "Accueil et conseil client, développement des ventes. Gestion des stocks, encaissement et mise en rayon. Ouverture/fermeture du magasin et entretien de l’espace de vente. Communication, marketing et gestion administrative. Management d’équipe et projets d’amélioration."
-    },
-    "67": {
+    "63": {
         "Ville": "Brest",
         "Ecole": "PPI",
         "Entreprise": "Moulin d'élise",
@@ -947,7 +891,7 @@
         ],
         "Description": "Gestion administrative, comptable et commerciale. Suivi des ressources humaines et de la performance. Gestion de projets, communication et marketing."
     },
-    "68": {
+    "64": {
         "Ville": "Brest",
         "Ecole": "SDC",
         "Entreprise": "Moulin d'élise",
@@ -961,7 +905,7 @@
         ],
         "Description": "Création de supports et gestion des réseaux sociaux. Déploiement de stratégies de communication et suivi des KPI. Production de vidéos et rédaction de contenus. Veille concurrentielle, analyse des performances et gestion de projets. Organisation d’événements et collaboration avec les équipes."
     },
-    "69": {
+    "65": {
         "Ville": "Brest",
         "Ecole": "IFAG",
         "Entreprise": "Pêche & chasse Auray",
@@ -975,7 +919,7 @@
         ],
         "Description": "Conseil client - Réception marchandises - Mise en rayon - Facing / Implantation - Gestion de la caisse - Fidélisation des clients - Commandes fournisseurs - Animation du point de vente "
     },
-    "70": {
+    "66": {
         "Ville": "Brest",
         "Ecole": "PPI",
         "Entreprise": "Pêche & chasse Auray",
@@ -989,63 +933,63 @@
         ],
         "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
     },
+    "67": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Pêche & chasse Brest",
+        "URL Entreprise": "https://www.alre-peche.com/content/14-magasin-brest",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
+    },
+    "68": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Pêche & chasse Brest",
+        "URL Entreprise": "https://www.alre-peche.com/content/14-magasin-brest",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
+    },
+    "69": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Pêche & chasse Vannes",
+        "URL Entreprise": "https://www.alre-peche.com/",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
+    },
+    "70": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Pêche & chasse Vannes",
+        "URL Entreprise": "https://www.alre-peche.com/",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
+    },
     "71": {
-        "Ville": "Brest",
-        "Ecole": "IFAG",
-        "Entreprise": "Pêche & chasse Brest",
-        "URL Entreprise": "https://www.alre-peche.com/content/14-magasin-brest",
-        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
-        "Horaire présence": "Entreprise représentée",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Vendeur conseil en magasin"
-        ],
-        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
-    },
-    "72": {
-        "Ville": "Brest",
-        "Ecole": "PPI",
-        "Entreprise": "Pêche & chasse Brest",
-        "URL Entreprise": "https://www.alre-peche.com/content/14-magasin-brest",
-        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
-        "Horaire présence": "Entreprise représentée",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Vendeur conseil en magasin"
-        ],
-        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
-    },
-    "73": {
-        "Ville": "Brest",
-        "Ecole": "IFAG",
-        "Entreprise": "Pêche & chasse Vannes",
-        "URL Entreprise": "https://www.alre-peche.com/",
-        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
-        "Horaire présence": "Entreprise représentée",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Vendeur conseil en magasin"
-        ],
-        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
-    },
-    "74": {
-        "Ville": "Brest",
-        "Ecole": "PPI",
-        "Entreprise": "Pêche & chasse Vannes",
-        "URL Entreprise": "https://www.alre-peche.com/",
-        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
-        "Horaire présence": "Entreprise représentée",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Vendeur conseil en magasin"
-        ],
-        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
-    },
-    "75": {
         "Ville": "Brest",
         "Ecole": "IFAG",
         "Entreprise": "Primark",
@@ -1059,21 +1003,7 @@
         ],
         "Description": "Management des équipes de vente et optimisation des performances. Gestion du budget, des stocks et des commandes. Garantie des standards visuels et du merchandising. Application des normes opérationnelles, d’hygiène et de sécurité."
     },
-    "76": {
-        "Ville": "Brest",
-        "Ecole": "LIT",
-        "Entreprise": "Tsifi",
-        "URL Entreprise": "https://tsifi.tsifi.com/",
-        "Logo entreprise": "https://tsifi.tsifi.com/wp-content/uploads/2025/01/Logo-TSIFi.png",
-        "Horaire présence": "14h - 19h",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Administrateur Systèmes et Réseaux"
-        ],
-        "Description": "Installation, maintenance et support des postes de travail et réseaux. Analyse des besoins clients et proposition de solutions adaptées. Participation aux projets informatiques et aux rendez-vous clients. Documentation des procédures."
-    },
-    "77": {
+    "72": {
         "Ville": "Brest",
         "Ecole": "IFAG",
         "Entreprise": "Univers du sommeil",
@@ -1087,7 +1017,7 @@
         ],
         "Description": "Accueil et conseil client (physique et téléphonique). Vente et gestion des commandes/livraisons. Mise en place et entretien du magasin. Organisation du stock et contrôle qualité. Maîtrise des outils informatiques."
     },
-    "78": {
+    "73": {
         "Ville": "Brest",
         "Ecole": "SDC",
         "Entreprise": "Gars du reun basket",
