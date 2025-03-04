@@ -1,19 +1,143 @@
 {
     "0": {
-        "Ville": "Brest",
-        "Ecole": "LIT",
-        "Entreprise": "Tsifi",
-        "URL Entreprise": "https://tsifi.tsifi.com/",
-        "Logo entreprise": "https://tsifi.tsifi.com/wp-content/uploads/2025/01/Logo-TSIFi.png",
-        "Horaire présence": "14h - 19h",
+        "Ville": "Caen",
+        "Ecole": "SDM",
+        "Entreprise": "Concept 102 ",
+        "URL Entreprise": "https://concept102.fr/",
+        "Logo entreprise": "https://concept102.fr/wp-content/uploads/2021/09/logobleu.png",
+        "Horaire présence": "14h - 17h30",
         "Evenement": "JOB DATING & FORUM LIBRE",
         "Nb poste": 1,
         "Liste poste": [
-            "Administrateur Systèmes et Réseaux"
+            "Assistant/e marketing (ALT)"
         ],
-        "Description": "Réaliser le support  •Installer les postes de travail et effectuer leur maintenance  • Déployer les éléments réseaux  • Participation aux RDV clients avec notre Dirigeant  •Analyse des besoins des clients ainsi que la proposition de solutions adaptées  •Participer à des projets divers en informatique  •Documenter les procédures"
+        "Description": "Gestion de la communication • Assistance dans la mise en œuvre des actions commerciales • Suivi des performances • Gestion des partenariats • Assistance à la création de supports marketing et du site e-commerce"
     },
     "1": {
+        "Ville": "Caen",
+        "Ecole": "SDM",
+        "Entreprise": "Le Ballon Vert",
+        "URL Entreprise": "https://leballonvert.com/",
+        "Logo entreprise": "https://leballonvert.com/wp-content/themes/le-ballon-vert-cie/img/Logo_Le_Ballon_Vert6.png",
+        "Horaire présence": "14h - 17h30",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Stages costumier/e"
+        ],
+        "Description": "Conception, la réalisation et l'entretien des costumes des différents projets en cours"
+    },
+    "2": {
+        "Ville": "Caen",
+        "Ecole": "SDC",
+        "Entreprise": "Tourisme Bretagne",
+        "URL Entreprise": "https://www.tourismebretagne.com/",
+        "Logo entreprise": "https://media.licdn.com/dms/image/v2/D4E0BAQGRDz4NV5AdbA/company-logo_200_200/company-logo_200_200/0/1665760548005/tourisme_bretagne_logo?e=2147483647&v=beta&t=0mUBdQB6Nvd9Y3V8ttafc9k1pMSRSEWE0s3hdTLbfjs",
+        "Horaire présence": "14h - 17h30",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistante de communication digitale BtoB (en alternance)"
+        ],
+        "Description": "• Animation des outils de communication BtoB et suivi du calendrier éditorial • Rédaction et publication de la newsletter bimensuelle • Création de contenus autour de l’offre de services et des actualités de Tourisme "
+    },
+    "3": {
+        "Ville": "Caen",
+        "Ecole": "SDC",
+        "Entreprise": "ClickandCaux (Le Havre)",
+        "URL Entreprise": "https://clickandcaux.com/",
+        "Logo entreprise": "https://clickandcaux.com/wp-content/uploads/2025/01/logoclickandcaux-V2-e1738771414943.png",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Stage + Alternance Chargé/e de communication"
+        ],
+        "Description": "LA FICHE ARRIVE BIENTÔT"
+    },
+    "4": {
+        "Ville": "Caen",
+        "Ecole": "SDC",
+        "Entreprise": "Vitrines Caen",
+        "URL Entreprise": "https://www.vitrines-caen.fr/",
+        "Logo entreprise": "https://www.boutic-app.fr/site/img/logo-vitrines-caen.jpg",
+        "Horaire présence": "14h - 17h30",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Alternance chargé/e de communication et commercial"
+        ],
+        "Description": "• Création de contenus • Community management • Relations presse • Prospection de nouveaux membres • Prospection de nouveaux membres  "
+    },
+    "5": {
+        "Ville": "Caen",
+        "Ecole": "SDC",
+        "Entreprise": "DDFIP du Calvados",
+        "URL Entreprise": "https://www.calvados.gouv.fr/Services-de-l-Etat/Direction-departementale-des-finances-publiques-DDFIP/Direction-departementale-des-finances-publiques-DDFIP",
+        "Logo entreprise": "data:image/png;base64,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",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti - Service de communicaition"
+        ],
+        "Description": "Communication interne (articles intranet) et externe (presse, partenaires). Organisation d’événements et animations thématiques (éco-responsabilité, diversité). Création de supports visuels (flyers, affiches). Promotion de l’attractivité de la DGFIP via des salons étudiants et d’apprentissage."
+    },
+    "6": {
+        "Ville": "Caen",
+        "Ecole": "SDC",
+        "Entreprise": "Hôtel Antares Honfleur",
+        "URL Entreprise": "https://www.antares-honfleur.com/fr/",
+        "Logo entreprise": "https://www.antares-honfleur.com/wp-content/uploads/2022/03/antares-honfleur-logo.png",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Stage chargé(e) de Communication ou alternant(e)"
+        ],
+        "Description": "Élaboration du plan de communication digitale  • Mise en place et gestion des actions • Mesurer les performances des actions grâce à des KPIs défini"
+    },
+    "7": {
+        "Ville": "Caen",
+        "Ecole": "SDC",
+        "Entreprise": "ICEP ",
+        "URL Entreprise": "ICEP Formation | CCI Caen Normandie",
+        "Logo entreprise": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWlrBGWY5nd2pYqhkowr70-KMY_8vv4CuStj08QyLrXoOJahRRe6gNoq4y0WeUwotAuE&usqp=CAU",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé·e de communication"
+        ],
+        "Description": "• Production de contenus • Site internet • Diffusion en interne des insights détectés grâce à la veille métier. • Réseaux sociaux en binôme avec la Community Manager"
+    },
+    "8": {
+        "Ville": "Caen",
+        "Ecole": "SDC",
+        "Entreprise": "SEDELKA",
+        "URL Entreprise": "https://www.sedelka.fr/?utm_source=google&utm_medium=cpc&utm_term=sedelka&utm_campaign=MV_Search_Fil-Rouge_Notoriete&gad_source=1&gclid=CjwKCAiAw5W-BhAhEiwApv4goDvCfba2cyWWdjEtEqJs66Xlyfqgi5DmEDdIhC_YPWlcutLVsxf_-hoCzNsQAvD_BwE",
+        "Logo entreprise": "https://www.sedelka.fr/storage/temp/public/920/a11/c48/logo-sedelka__320.png",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 0,
+        "Liste poste": [],
+        "Description": ""
+    },
+    "9": {
+        "Ville": "Caen",
+        "Ecole": "SDC",
+        "Entreprise": "BOWU International",
+        "URL Entreprise": "https://bowu.international/stage",
+        "Logo entreprise": "data:image/jpeg;base64,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",
+        "Horaire présence": "14h - 17h30",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé de communication"
+        ],
+        "Description": "Communication & Gestion sur évènements"
+    },
+    "10": {
         "Ville": "Brest",
         "Ecole": "LIT",
         "Entreprise": "Apside",
@@ -25,65 +149,51 @@
         "Liste poste": [
             "Alternance en développement Logiciel/web"
         ],
-        "Description": "Concevoir, développer et tester des applications internes ou dédiées à nos clients telles que le suivi des formations, des projets ou des collaborateurs  •Travailler avec des technologies comme Java, Javascript/TypeScript  •Explorer différents frameworks : spring, react, angular, VueJS  •Manipuler des bases de données SQL  •Découvrir les bonnes pratiques Devops (Docker, Git, CI/CD)"
+        "Description": "Conception et développement d’applications internes et clients (suivi des formations, projets, collaborateurs). Utilisation de Java, JavaScript/TypeScript et frameworks (Spring, React, Angular, VueJS). Manipulation de bases SQL et adoption des bonnes pratiques DevOps (Docker, Git, CI/CD)."
     },
-    "2": {
+    "11": {
         "Ville": "Brest",
         "Ecole": "SDC",
-        "Entreprise": "Les Vitrines de Brest",
-        "URL Entreprise": "https://www.vitrines-brest.fr/",
-        "Logo entreprise": "https://photos.infolocale.fr/infolocale/organisme/325/325075/logo/20160209151519.jpg",
-        "Horaire présence": "14h - 19h",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Assistant(e) communication"
-        ],
-        "Description": " • Participer activement la réalisation de supports de communication très variés : affiches, flyers, newsletters, sondages/enquêtes, dossier partenaires, diaporamas, montages vidéos, posts réseaux sociaux • Collaborer à l'organisation d'évènements divers, que ce soit en interne (réunions, CA, AG, groupes de travail, petits déjeuners..) ou en externe (opérations pour animer le centre-ville )  • Savoir manier les outils web et développer la visibilité de l'Association sur internet, mettre à jour le site internet, gérer, veiller et développer les réseaux sociaux, (FB,insta..) •Collaborer à l'élaboration des différents plans médias et à la gestion des relations presse •Effectuer également des tâches qui relèvent davantage du secrétariat : prise de notes lors des réunions, rédactions de comptes rendus, distribution de documents aux adhérents  •Maitriser les outils de communication (word, excel, au minima Canva, Google Forms, Meta Business suite..)"
-    },
-    "3": {
-        "Ville": "Brest",
-        "Ecole": "HTBS",
-        "Entreprise": "Hotel Bellevue",
-        "URL Entreprise": "https://hotelbellevue.fr/",
-        "Logo entreprise": "https://hotelbellevue.fr/wp-content/uploads/2023/10/logo-hotel-bellevue-brest.png",
-        "Horaire présence": "14h - 19h",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Réceptionniste polyvalent"
-        ],
-        "Description": "Assurer l'accueil physique et téléphonique des clients • Fournir des informations sur les services de l'hôtel et les attractions locales • Assurer la satisfaction des clients en traitant leurs demandes •Préparer les petits déjeuners et autres services annexes proposés par l'hôtel •Gérer les réservations et les comptes clients, effectuer les check-in et check-out •Assurer les astreintes de la réception de l'établissement pendant les nuits d’astreintes •Gérer l'entretien du linge et le suivi des prestataires et partenaires •Assurer le maintien de l'état de propreté des infrastructures de l'établissement •Participer à l'entretien et au ménage des chambres avec le service d’étage."
-    },
-    "4": {
-        "Ville": "Brest",
-        "Ecole": "IFAG",
-        "Entreprise": "Kermeur spirits",
-        "URL Entreprise": "https://www.produitenbretagne.bzh/nos-membres/kermeur-spirits/",
-        "Logo entreprise": "https://img-proxy-service.produitenbretagne.bzh/SFe_Slmo9KUrjvUMdvez1XwZ2kQ=/fit-in/400x200/https://s3.fr-par.scw.cloud/medias-produitenbretagne-bzh/companies/901a215e-746d-4b58-b000-30b82c6877b0/logo/d7203634-b705-44e7-94f3-e220eb1056e7.png",
-        "Horaire présence": "14h - 16h",
+        "Entreprise": "Bord à bord",
+        "URL Entreprise": "https://www.bord-a-bord.fr/",
+        "Logo entreprise": "https://www.bord-a-bord.fr/local/cache-vignettes/L199xH200/logo-bab-d85a4.png?1724944258",
+        "Horaire présence": "Entreprise représentée",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
         "Liste poste": [
-            "Chef de projet événementiel/Marketing- H/F"
+            "Community manager"
         ],
-        "Description": "En étroite collaboration avec la Responsable, vous aurez pour missions d’organiser le projet à dimension régionale dans le domaine de l'événementiel - commercial – marketing : le TY TOUR ! Le but de ce projet est de conquérir un territoire dans toutes dimensions : numérique ; commerciale ; conviviale ; relationnel. Ce projet Ty Tour doit être piloté et réalisé sur une période de 6 mois de stage minimum (soit de Mars à août 2025). Des partenariats pour différents festivals et évènement sportifs sont également à planifier et à négocier."
+        "Description": "Création de contenus vidéo et photo (Adobe). Animation des réseaux sociaux et engagement des communautés. Gestion des campagnes Ads, SEO et rédaction web (blogs, newsletters). Participation aux salons et événements. Production et diffusion de supports marketing omnicanaux."
     },
-    "5": {
+    "12": {
         "Ville": "Brest",
         "Ecole": "IFAG",
-        "Entreprise": "Primark",
-        "URL Entreprise": "https://www.primark.com/fr-fr",
-        "Logo entreprise": "https://primedia.primark.com/i/primark/Primark_logo24?$logo-regulardesktop$&fmt=auto",
+        "Entreprise": "Capfinances",
+        "URL Entreprise": "https://capfinances.fr/",
+        "Logo entreprise": "https://capfinances.fr/wp-content/uploads/2021/02/Capfinances_Logo_Header_reduc.png",
         "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
         "Nb poste": 1,
         "Liste poste": [
-            "Commercial"
+            "Gestion patrimoine"
         ],
-        "Description": "• Management : vous animez les équipes de vente ; • Gestion de budget : accroître les ventes et les résultats, saisir toutes les opportunités commerciales ; • Gestion des stocks : vous analysez vos ventes, préconisez les commandes de produits de votre périmètre en conséquence et vous gérez vos stocks  • Merchandising : vous êtes le/la garant(e) de l’excellence des normes visuelles du groupe ; • Respect des normes opérationnelles, d’hygiène et de sécurité : veiller à la bonne application globale de la politique Primark."
+        "Description": "Developper un portefeuille de clients patrimoniaux Analyser les besoins des clients Dresser un bilan patrimonial Préconiser des solutions adaptées Suivre l’évolution des solutions patrimoniales Accompagner les projets des clients"
     },
-    "6": {
+    "13": {
+        "Ville": "Brest",
+        "Ecole": "SIMMO",
+        "Entreprise": "Capfinances",
+        "URL Entreprise": "https://capfinances.fr/",
+        "Logo entreprise": "https://capfinances.fr/wp-content/uploads/2021/02/Capfinances_Logo_Header_reduc.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Gestion patrimoine"
+        ],
+        "Description": "Developper un portefeuille de clients patrimoniaux Analyser les besoins des clients Dresser un bilan patrimonial Préconiser des solutions adaptées Suivre l’évolution des solutions patrimoniales Accompagner les projets des clients"
+    },
+    "14": {
         "Ville": "Brest",
         "Ecole": "IFAG",
         "Entreprise": "Emily",
@@ -95,6 +205,900 @@
         "Liste poste": [
             "Assistant(e) commercial(e) export"
         ],
-        "Description": "Missions en termes de support animation du réseau de distribution : ? Identifier les opportunités et les besoins du marché, en effectuant une veille sur les pays cibles. Réaliser pour cela des analyses permettant de prioriser les actions de prospection en fonction du potentiel de développement de la zone ciblée. ? Être en support de l’équipe commerciale pour l’animation du réseau de partenaires existants, tant sur le plan commercial, technique, marketing et organisationnel, en s’adaptant aux besoins des différentes cultures. ? Être en support du Responsable des Ventes Export dans la gestion administrative, marketing et commerciale de la filiale Emily North America afin d’atteindre les objectifs de ventes sur le marché américain. ? Assurer une prospection commerciale depuis le siège social de la société, par téléphone / mail / visio, en collaboration avec l’équipe commerciale. ? Elaborer des plans d’actions de Marketing Digital (RS, Adwords, Display) en fournissant à l’Equipe Marketing l’ensemble des éléments nécessaires et inhérents au pays ciblé. ? Réaliser une veille de l’action de la concurrence permettant de mettre en place des offensives commerciales et/ou des contre-argumentaires de vente. ? Participer aux actions de communication organisées par la Direction, aux salons ou toutes autres manifestations commerciales auxquelles la société souhaite être présente Missions de vente : ? En collaboration avec l’équipe commerciale, mener à bonne fin l'acte de vente des matériels, de la rédaction d’offres à la livraison du matériel, en réalisant les formalités export : suivi règlement, formalités douanières, transport, incoterm. ? Réaliser la promotion, les offres commerciales et les ventes de la gamme de produits de la société sur les secteurs ciblés. ? S’assurer de la solvabilité des clients, de fournir à la société tous renseignements utiles à ce sujet. ? Appliquer la Politique Commerciale définie par la direction en termes de remise, de délais de paiement et délais de livraison. Missions annexes : ? Assurer la remontée des informations terrains et des demandes des clients. ? Fournir régulièrement à la Direction, tous les renseignements sur la situation du marché, des efforts de la concurrence et la diffusion des produits commercialisés. ? Travailler en toute transparence avec l’ensemble de l’équipe commerciale Export, mais aussi avec le service Technique, Marketing, R&D, Production et Comptabilité afin d’assurer une offre complète de produits et de services premium à l’ensemble de nos clients. ? Se conformer à l'organisation interne pour assurer une parfaite gestion des différentes tâches commerciales : classement des propositions, suivi des affaires en cours, mise à jour des fichiers CRM et logiciel de devis."
+        "Description": "Analyse de marché et veille concurrentielle pour prioriser la prospection. Support commercial et animation du réseau de partenaires. Gestion marketing et commerciale pour le marché export. Élaboration de plans d’actions digitales et participation aux salons. Suivi des ventes, formalités export et remontée d’informations terrain."
+    },
+    "15": {
+        "Ville": "Brest",
+        "Ecole": "HTBS",
+        "Entreprise": "Hotel Bellevue",
+        "URL Entreprise": "https://hotelbellevue.fr/",
+        "Logo entreprise": "https://hotelbellevue.fr/wp-content/uploads/2023/10/logo-hotel-bellevue-brest.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Réceptionniste polyvalent"
+        ],
+        "Description": "Accueil et information clients sur l’hôtel et les attractions. Gestion des réservations, check-in/check-out et satisfaction client. Préparation des petits déjeuners et suivi des prestataires. Entretien des infrastructures et participation au ménage. Astreintes de nuit et gestion du linge."
+    },
+    "16": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Kermeur spirits",
+        "URL Entreprise": "https://www.produitenbretagne.bzh/nos-membres/kermeur-spirits/",
+        "Logo entreprise": "https://img-proxy-service.produitenbretagne.bzh/SFe_Slmo9KUrjvUMdvez1XwZ2kQ=/fit-in/400x200/https://s3.fr-par.scw.cloud/medias-produitenbretagne-bzh/companies/901a215e-746d-4b58-b000-30b82c6877b0/logo/d7203634-b705-44e7-94f3-e220eb1056e7.png",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chef de projet événementiel/Marketing- H/F"
+        ],
+        "Description": "Organisation du projet événementiel Ty Tour sur 6 mois (mars-août 2025) visant à développer un territoire sur les plans numérique, commercial et relationnel. Planification et négociation de partenariats pour festivals et événements sportifs."
+    },
+    "17": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Kiabi",
+        "URL Entreprise": "https://www.kiabi.com/",
+        "Logo entreprise": "data:image/png;base64,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",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant(e)s Co-leaders"
+        ],
+        "Description": "Co-leader d’équipe chez Kiabi, garantissant un climat social performant et agile. Management bienveillant favorisant autonomie et réussite collective. Mise en œuvre de la stratégie commerciale et amélioration de l’expérience client. Développement des performances via les indicateurs commerciaux. Gestion du compte d’exploitation et optimisation de la rentabilité."
+    },
+    "18": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Le télégramme",
+        "URL Entreprise": "https://www.letelegramme.fr/",
+        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Contrôleur de gestion (2 postes)"
+        ],
+        "Description": "• Participation à la mise en place et suivi d’indicateurs de gestion • Analyse des écarts et décomposition des coûts • Préparation des clôtures mensuelles et prévisionnels • Participation à l’élaboration des budgets, des business plan et des reportings • Participation aux projets SI Finance et à la rédaction de procédures"
+    },
+    "19": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Le télégramme",
+        "URL Entreprise": "https://www.letelegramme.fr/",
+        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant marketing"
+        ],
+        "Description": "Mise en œuvre et suivi du plan commercial et marketing. Suivi des offres et opérations spéciales. Création et mise à jour des outils d’aide à la vente. Analyse des études de marché, KPIs et veille concurrentielle. Optimisation des produits digitaux si nécessaire."
+    },
+    "20": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Le télégramme",
+        "URL Entreprise": "https://www.letelegramme.fr/",
+        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé de développement commercial"
+        ],
+        "Description": "Organisation des formations commerciales et des Raids étudiants. Identification et déploiement de nouveaux canaux de prospection. Développement des challenges étudiants et gestion des relations avec les écoles. Organisation et suivi des événements commerciaux (foires, salons, partenariats)."
+    },
+    "21": {
+        "Ville": "Brest",
+        "Ecole": "LIT",
+        "Entreprise": "Le télégramme",
+        "URL Entreprise": "https://www.letelegramme.fr/",
+        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Technicien support informatique"
+        ],
+        "Description": "Gestion et maintenance des postes de travail et serveurs. Supervision et résolution des incidents. Assistance technique aux utilisateurs et mise à jour de la base de connaissances. Rédaction de rapports techniques et amélioration des procédures. Veille technologique active."
+    },
+    "22": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Le télégramme",
+        "URL Entreprise": "https://www.letelegramme.fr/",
+        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé de communication"
+        ],
+        "Description": "Captation et montage vidéo d’événements internes. Création de supports visuels (logos, affiches, infographies, documents). Gestion et mise à jour des contenus pour l’intranet et les réseaux internes. Organisation et animation d’événements internes (séminaires, concours). Structuration et gestion de la banque d’images du groupe."
+    },
+    "23": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Les Vitrines de Brest",
+        "URL Entreprise": "https://www.vitrines-brest.fr/",
+        "Logo entreprise": "https://photos.infolocale.fr/infolocale/organisme/325/325075/logo/20160209151519.jpg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant(e) communication"
+        ],
+        "Description": "Création de supports de communication (affiches, newsletters, vidéos, posts). Organisation d’événements internes et externes. Gestion du site web et des réseaux sociaux. Élaboration des plans médias et relations presse. Tâches administratives (prise de notes, comptes rendus, gestion documentaire)."
+    },
+    "24": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Lumy",
+        "URL Entreprise": "https://agence-lumy.fr/",
+        "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Growth hacker"
+        ],
+        "Description": "Mise en place de stratégies de growth hacking et acquisition à faible coût. Analyse des données pour optimiser les canaux marketing. Développement de la présence sur les réseaux sociaux et animation de communauté. Création de campagnes avec budgets limités. Organisation d’événements, partenariats et placements de produits."
+    },
+    "25": {
+        "Ville": "Brest",
+        "Ecole": "LDS",
+        "Entreprise": "Lumy",
+        "URL Entreprise": "https://agence-lumy.fr/",
+        "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Growth hacker"
+        ],
+        "Description": "Mise en place de stratégies marketing innovantes et de growth hacking. Analyse des données pour optimiser l’acquisition et la croissance. Développement de la présence digitale et animation de communauté. Création de campagnes à budget limité. Organisation d’événements, partenariats et placements de produits."
+    },
+    "26": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Lumy",
+        "URL Entreprise": "https://agence-lumy.fr/",
+        "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Growth hacker"
+        ],
+        "Description": "Déploiement de stratégies de growth hacking pour une acquisition à faible coût. Analyse des données pour identifier les leviers de croissance. Optimisation des canaux d’acquisition et des campagnes marketing. Développement et animation de communauté. Organisation d’événements, partenariats et placements de produits."
+    },
+    "27": {
+        "Ville": "Brest",
+        "Ecole": "LDS",
+        "Entreprise": "Moulin d'elise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti desing graphique"
+        ],
+        "Description": "Création de visuel Recherche et inspiration Travail en équipe Maitrise des logiciels Gestion de projets Préparation des fichiers pour l'impression ou le web Suivi des tendances et technologies dans le domaine du design Communication "
+    },
+    "28": {
+        "Ville": "Brest",
+        "Ecole": "LDS",
+        "Entreprise": "Moulin d'elise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti Infographie"
+        ],
+        "Description": "Création de visuels Conception de maquettes Retouche d'images Préparation de fichiers pour impression Suivi de projets Recherche et développement Présentation de projets Collaboration avec d'autres équipes "
+    },
+    "29": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Moulin d'élise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti commerce"
+        ],
+        "Description": "Accueil client et conseil en vente. Gestion des stocks, encaissement et mise en rayon. Ouverture/fermeture du magasin et entretien de l’espace de vente. Communication, marketing et gestion administrative des ventes. Management d’équipe et projets d’amélioration."
+    },
+    "30": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Moulin d'élise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti Vente"
+        ],
+        "Description": "Accueil client et conseil en vente. Gestion des stocks, encaissement et mise en rayon. Ouverture/fermeture du magasin et entretien de l’espace de vente. Communication, marketing et gestion administrative des ventes. Management d’équipe et projets d’amélioration."
+    },
+    "31": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Moulin d'élise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti vente"
+        ],
+        "Description": "Accueil des clients avec amabilité Vente et conseils au client Mise en rayon des produits Gestion des stocks Encaissement Maintenir la surface de vente et son espace de travail propre et nettoyé Savoir faire une ouverture et une fermeture de la boutique "
+    },
+    "32": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Moulin d'élise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti Gestion PME"
+        ],
+        "Description": "Gestion administrative Gestion comptable Gestion commerciale Gestion des Ressouces humaines Gestion de projets Communication et marketing Suivi de la performance "
+    },
+    "33": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Moulin d'élise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti communication (2 postes)"
+        ],
+        "Description": "Création de supports et gestion des réseaux sociaux. Déploiement de stratégies de communication ciblées. Réalisation de vidéos et rédaction de contenus. Analyse des performances, veille concurrentielle et études de marché. Organisation d’événements et gestion de projets en collaboration avec les équipes."
+    },
+    "34": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Pêche & chasse Auray",
+        "URL Entreprise": "https://www.alre-peche.com/content/11-magasin-auray",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil client - Réception marchandises - Mise en rayon - Facing / Implantation - Gestion de la caisse - Fidélisation des clients - Commandes fournisseurs - Animation du point de vente "
+    },
+    "35": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Pêche & chasse Auray",
+        "URL Entreprise": "https://www.alre-peche.com/content/11-magasin-auray",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil client - Réception marchandises - Mise en rayon - Facing / Implantation - Gestion de la caisse - Fidélisation des clients - Commandes fournisseurs - Animation du point de vente "
+    },
+    "36": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Pêche & chasse Brest",
+        "URL Entreprise": "https://www.alre-peche.com/content/14-magasin-brest",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil client - Réception marchandises - Mise en rayon - Facing / Implantation - Gestion de la caisse - Fidélisation des clients - Commandes fournisseurs - Animation du point de vente"
+    },
+    "37": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Pêche & chasse Brest",
+        "URL Entreprise": "https://www.alre-peche.com/content/14-magasin-brest",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil client - Réception marchandises - Mise en rayon - Facing / Implantation - Gestion de la caisse - Fidélisation des clients - Commandes fournisseurs - Animation du point de vente"
+    },
+    "38": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Pêche & chasse Vannes",
+        "URL Entreprise": "https://www.alre-peche.com/",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil client - Réception marchandises - Mise en rayon - Facing / Implantation - Gestion de la caisse - Fidélisation des clients - Commandes fournisseurs - Animation du point de vente"
+    },
+    "39": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Pêche & chasse Vannes",
+        "URL Entreprise": "https://www.alre-peche.com/",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil client - Réception marchandises - Mise en rayon - Facing / Implantation - Gestion de la caisse - Fidélisation des clients - Commandes fournisseurs - Animation du point de vente"
+    },
+    "40": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Primark",
+        "URL Entreprise": "https://www.primark.com/fr-fr",
+        "Logo entreprise": "https://primedia.primark.com/i/primark/Primark_logo24?$logo-regulardesktop$&fmt=auto",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Commercial"
+        ],
+        "Description": "Animation et management des équipes de vente. Optimisation des ventes, gestion du budget et des stocks. Garantie des standards visuels et du merchandising. Application des normes opérationnelles, d’hygiène et de sécurité."
+    },
+    "41": {
+        "Ville": "Brest",
+        "Ecole": "LIT",
+        "Entreprise": "Tsifi",
+        "URL Entreprise": "https://tsifi.tsifi.com/",
+        "Logo entreprise": "https://tsifi.tsifi.com/wp-content/uploads/2025/01/Logo-TSIFi.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Administrateur Systèmes et Réseaux"
+        ],
+        "Description": "Installation, maintenance et support des postes de travail et réseaux. Analyse des besoins clients et proposition de solutions adaptées. Participation aux projets informatiques et aux rendez-vous clients. Documentation des procédures."
+    },
+    "42": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Univers du sommeil",
+        "URL Entreprise": "https://www.univers-du-sommeil.com/",
+        "Logo entreprise": "https://www.univers-du-sommeil.com/themes/axome/assets/img/logo.png",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant(e) responsable de magasin"
+        ],
+        "Description": "Accueil physique et téléphonique des clients, conseils et ventes. Mise en place du magasin et suivi de son état. Gestion des commandes, livraisons et stock. Contrôle qualité et maîtrise des outils informatiques."
+    },
+    "43": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Gars du reun basket",
+        "URL Entreprise": "https://garsdureun-basket-guipavas.com/",
+        "Logo entreprise": "https://garsdureun-basket-guipavas.com/public/3192/upload/theme/kal-theme-logo-header_1.png",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Alternant communication & marketing"
+        ],
+        "Description": "Création et animation de contenus pour les réseaux sociaux. Rédaction d’articles et de newsletters. Production de visuels et vidéos pour la communication digitale. Couverture des matchs et événements (photos, interviews). Recherche de sponsors et gestion des partenariats."
+    },
+    "44": {
+        "Ville": "Brest",
+        "Ecole": "LIT",
+        "Entreprise": "Apside",
+        "URL Entreprise": "https://www.apside.com/fr/",
+        "Logo entreprise": "https://frenchtech-prod.s3.fr-par.scw.cloud/i9lthgxgpbz6o4pm4wdw29vitty9",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Alternance en développement Logiciel/web"
+        ],
+        "Description": "Conception et développement d’applications internes et clients. Utilisation de Java, JavaScript/TypeScript et frameworks (Spring, React, Angular, VueJS). Gestion des bases de données SQL. Application des bonnes pratiques DevOps (Docker, Git, CI/CD)."
+    },
+    "45": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Bord à bord",
+        "URL Entreprise": "https://www.bord-a-bord.fr/",
+        "Logo entreprise": "https://www.bord-a-bord.fr/local/cache-vignettes/L199xH200/logo-bab-d85a4.png?1724944258",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Community manager"
+        ],
+        "Description": "Création de contenus vidéo et photo (Adobe). Animation des réseaux sociaux et engagement des communautés. Rédaction et optimisation SEO (blogs, newsletters). Gestion des campagnes Ads & Influence et participation aux salons. Stratégie marketing omnicanale et supports de communication."
+    },
+    "46": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Capfinances",
+        "URL Entreprise": "https://capfinances.fr/",
+        "Logo entreprise": "https://capfinances.fr/wp-content/uploads/2021/02/Capfinances_Logo_Header_reduc.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Gestion patrimoine"
+        ],
+        "Description": "Developper un portefeuille de clients patrimoniaux Analyser les besoins des clients Dresser un bilan patrimonial Préconiser des solutions adaptées Suivre l’évolution des solutions patrimoniales Accompagner les projets des clients"
+    },
+    "47": {
+        "Ville": "Brest",
+        "Ecole": "SIMMO",
+        "Entreprise": "Capfinances",
+        "URL Entreprise": "https://capfinances.fr/",
+        "Logo entreprise": "https://capfinances.fr/wp-content/uploads/2021/02/Capfinances_Logo_Header_reduc.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Gestion patrimoine"
+        ],
+        "Description": "Developper un portefeuille de clients patrimoniaux Analyser les besoins des clients Dresser un bilan patrimonial Préconiser des solutions adaptées Suivre l’évolution des solutions patrimoniales Accompagner les projets des clients"
+    },
+    "48": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Emily",
+        "URL Entreprise": "https://www.emily.fr/",
+        "Logo entreprise": "https://www.emily.fr/wp-content/uploads/2020/06/logo-emily.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant(e) commercial(e) export"
+        ],
+        "Description": "Analyse de marché et veille concurrentielle pour prioriser la prospection. Support à l’équipe commerciale et animation du réseau de partenaires. Gestion marketing et commerciale pour le marché export. Élaboration de stratégies digitales et participation aux salons. Suivi des ventes, formalités export et remontée d’informations terrain."
+    },
+    "49": {
+        "Ville": "Brest",
+        "Ecole": "HTBS",
+        "Entreprise": "Hotel Bellevue",
+        "URL Entreprise": "https://hotelbellevue.fr/",
+        "Logo entreprise": "https://hotelbellevue.fr/wp-content/uploads/2023/10/logo-hotel-bellevue-brest.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Réceptionniste polyvalent"
+        ],
+        "Description": "Accueil et information des clients sur l’hôtel et les attractions. Gestion des réservations, check-in/check-out et satisfaction client. Préparation des petits déjeuners et suivi des prestataires. Entretien des infrastructures et participation au ménage. Astreintes de nuit et gestion du linge."
+    },
+    "50": {
+        "Ville": "Brest",
+        "Ecole": "HTBS",
+        "Entreprise": "Hotel sainte barbe",
+        "URL Entreprise": "https://www.hotelsaintebarbe.com/",
+        "Logo entreprise": "https://d1fikoxdgdspr1.cloudfront.net/cache/img/sainte-barbe-hotel-spa-3129b8-500-240-auto.svg?q=1722267017",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 0,
+        "Liste poste": [],
+        "Description": "Cuisine / Pâtisserie / Salle / Sommellerie / Réception /  Etages"
+    },
+    "51": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Kermeur spirits",
+        "URL Entreprise": "https://www.produitenbretagne.bzh/nos-membres/kermeur-spirits/",
+        "Logo entreprise": "https://img-proxy-service.produitenbretagne.bzh/SFe_Slmo9KUrjvUMdvez1XwZ2kQ=/fit-in/400x200/https://s3.fr-par.scw.cloud/medias-produitenbretagne-bzh/companies/901a215e-746d-4b58-b000-30b82c6877b0/logo/d7203634-b705-44e7-94f3-e220eb1056e7.png",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chef de projet événementiel/Marketing- H/F"
+        ],
+        "Description": "Organisation et pilotage du projet événementiel Ty Tour sur 6 mois (mars-août 2025). Développement territorial à travers le numérique, le commerce et le relationnel. Planification et négociation de partenariats avec festivals et événements sportifs."
+    },
+    "52": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Kiabi",
+        "URL Entreprise": "https://www.kiabi.com/",
+        "Logo entreprise": "data:image/png;base64,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",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant(e)s Co-leaders"
+        ],
+        "Description": "Co-leader d’équipe chez Kiabi, garant du climat social et de l’organisation. Management bienveillant favorisant autonomie et réussite collective. Mise en œuvre de la stratégie commerciale et amélioration de l’expérience client. Suivi des indicateurs commerciaux et optimisation des performances. Gestion du compte d’exploitation et rentabilité du magasin."
+    },
+    "53": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Le télégramme",
+        "URL Entreprise": "https://www.letelegramme.fr/",
+        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Contrôleur de gestion (2 postes)"
+        ],
+        "Description": "Suivi des indicateurs de gestion et analyse des écarts. Préparation des clôtures mensuelles et prévisionnels. Élaboration des budgets, business plans et reportings. Participation aux projets SI Finance et rédaction de procédures."
+    },
+    "54": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Le télégramme",
+        "URL Entreprise": "https://www.letelegramme.fr/",
+        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant marketing"
+        ],
+        "Description": "Mise en œuvre et suivi du plan commercial et marketing. Suivi des offres et opérations spéciales. Création et mise à jour des outils d’aide à la vente. Analyse des études de marché, KPIs et veille concurrentielle. Optimisation des produits digitaux si nécessaire."
+    },
+    "55": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Le télégramme",
+        "URL Entreprise": "https://www.letelegramme.fr/",
+        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé de développement commercial"
+        ],
+        "Description": "Organisation et animation de formations commerciales pour équipes et étudiants. Identification et développement de nouveaux canaux de prospection. Gestion et suivi des Raids étudiants et relations avec les écoles. Planification et suivi des événements commerciaux (foires, salons, partenariats)."
+    },
+    "56": {
+        "Ville": "Brest",
+        "Ecole": "LIT",
+        "Entreprise": "Le télégramme",
+        "URL Entreprise": "https://www.letelegramme.fr/",
+        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Technicien support informatique"
+        ],
+        "Description": "Gestion et maintenance des postes de travail et serveurs. Supervision et résolution des incidents. Assistance technique et mise à jour de la base de connaissances. Rédaction de rapports techniques et amélioration des procédures. Veille technologique active."
+    },
+    "57": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Le télégramme",
+        "URL Entreprise": "https://www.letelegramme.fr/",
+        "Logo entreprise": "https://media.letelegramme.fr/api/v1/files/6671429881a7b17bbd76de7c?alt=file&v=1",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé de communication"
+        ],
+        "Description": "Captation et montage vidéo d’événements internes. Création de supports visuels (logos, affiches, infographies, documents). Gestion et mise à jour des contenus pour l’intranet et les réseaux internes. Organisation et animation d’événements internes (séminaires, concours). Structuration et gestion de la banque d’images du groupe."
+    },
+    "58": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Les Vitrines de Brest",
+        "URL Entreprise": "https://www.vitrines-brest.fr/",
+        "Logo entreprise": "https://photos.infolocale.fr/infolocale/organisme/325/325075/logo/20160209151519.jpg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant(e) communication"
+        ],
+        "Description": "Création de supports de communication variés (affiches, vidéos, newsletters). Organisation d’événements internes et externes. Gestion du site web et des réseaux sociaux. Élaboration des plans médias et relations presse. Tâches administratives (prises de notes, comptes rendus, gestion documentaire)."
+    },
+    "59": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Lumy",
+        "URL Entreprise": "https://agence-lumy.fr/",
+        "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Growth hacker"
+        ],
+        "Description": "Mise en place de stratégies growth hacking pour une acquisition à faible coût. Analyse des données et optimisation des canaux marketing. Développement de la présence digitale et animation de communauté. Création de campagnes à budget limité. Organisation d’événements, partenariats et placements de produits."
+    },
+    "60": {
+        "Ville": "Brest",
+        "Ecole": "LDS",
+        "Entreprise": "Lumy",
+        "URL Entreprise": "https://agence-lumy.fr/",
+        "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Growth hacker"
+        ],
+        "Description": "Mise en place de stratégies growth hacking pour une acquisition à faible coût. Analyse des données et optimisation des canaux marketing. Développement de la présence digitale et animation de communauté. Création de campagnes à budget limité. Organisation d’événements, partenariats et placements de produits."
+    },
+    "61": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Lumy",
+        "URL Entreprise": "https://agence-lumy.fr/",
+        "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Growth hacker"
+        ],
+        "Description": "Mise en place de stratégies growth hacking pour une acquisition à faible coût. Analyse des données et optimisation des canaux marketing. Développement de la présence digitale et animation de communauté. Création de campagnes à budget limité. Organisation d’événements, partenariats et placements de produits."
+    },
+    "62": {
+        "Ville": "Brest",
+        "Ecole": "LDS",
+        "Entreprise": "Moulin d'elise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti desing graphique"
+        ],
+        "Description": "Création de visuels et gestion de projets graphiques. Recherche d’inspiration et veille sur les tendances design. Maîtrise des logiciels et préparation des fichiers pour impression/web. Travail en équipe et communication."
+    },
+    "63": {
+        "Ville": "Brest",
+        "Ecole": "LDS",
+        "Entreprise": "Moulin d'elise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti Infographie"
+        ],
+        "Description": "Création de visuels et gestion de projets graphiques. Recherche d’inspiration et veille sur les tendances design. Maîtrise des logiciels et préparation des fichiers pour impression/web. Travail en équipe et communication."
+    },
+    "64": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Moulin d'élise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti commerce"
+        ],
+        "Description": "Accueil et conseil client, développement des ventes. Gestion des stocks, encaissement et mise en rayon. Ouverture/fermeture du magasin et entretien de l’espace de vente. Communication, marketing et gestion administrative. Management d’équipe et projets d’amélioration."
+    },
+    "65": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Moulin d'élise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti Vente"
+        ],
+        "Description": "Accueil et conseil client, développement des ventes. Gestion des stocks, encaissement et mise en rayon. Ouverture/fermeture du magasin et entretien de l’espace de vente. Communication, marketing et gestion administrative. Management d’équipe et projets d’amélioration."
+    },
+    "66": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Moulin d'élise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti vente"
+        ],
+        "Description": "Accueil et conseil client, développement des ventes. Gestion des stocks, encaissement et mise en rayon. Ouverture/fermeture du magasin et entretien de l’espace de vente. Communication, marketing et gestion administrative. Management d’équipe et projets d’amélioration."
+    },
+    "67": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Moulin d'élise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti Gestion PME"
+        ],
+        "Description": "Gestion administrative, comptable et commerciale. Suivi des ressources humaines et de la performance. Gestion de projets, communication et marketing."
+    },
+    "68": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Moulin d'élise",
+        "URL Entreprise": "https://www.moulindelise.com/",
+        "Logo entreprise": "https://www.moulindelise.com/wp-content/uploads/moulin-elise-sucre-sale-au-naturel-logo.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Apprenti communication (2 postes)"
+        ],
+        "Description": "Création de supports et gestion des réseaux sociaux. Déploiement de stratégies de communication et suivi des KPI. Production de vidéos et rédaction de contenus. Veille concurrentielle, analyse des performances et gestion de projets. Organisation d’événements et collaboration avec les équipes."
+    },
+    "69": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Pêche & chasse Auray",
+        "URL Entreprise": "https://www.alre-peche.com/content/11-magasin-auray",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil client - Réception marchandises - Mise en rayon - Facing / Implantation - Gestion de la caisse - Fidélisation des clients - Commandes fournisseurs - Animation du point de vente "
+    },
+    "70": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Pêche & chasse Auray",
+        "URL Entreprise": "https://www.alre-peche.com/content/11-magasin-auray",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
+    },
+    "71": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Pêche & chasse Brest",
+        "URL Entreprise": "https://www.alre-peche.com/content/14-magasin-brest",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
+    },
+    "72": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Pêche & chasse Brest",
+        "URL Entreprise": "https://www.alre-peche.com/content/14-magasin-brest",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
+    },
+    "73": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Pêche & chasse Vannes",
+        "URL Entreprise": "https://www.alre-peche.com/",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
+    },
+    "74": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Pêche & chasse Vannes",
+        "URL Entreprise": "https://www.alre-peche.com/",
+        "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Vendeur conseil en magasin"
+        ],
+        "Description": "Conseil et fidélisation client. Réception et mise en rayon des marchandises. Gestion de la caisse et des commandes fournisseurs. Animation et optimisation du point de vente."
+    },
+    "75": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Primark",
+        "URL Entreprise": "https://www.primark.com/fr-fr",
+        "Logo entreprise": "https://primedia.primark.com/i/primark/Primark_logo24?$logo-regulardesktop$&fmt=auto",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Commercial"
+        ],
+        "Description": "Management des équipes de vente et optimisation des performances. Gestion du budget, des stocks et des commandes. Garantie des standards visuels et du merchandising. Application des normes opérationnelles, d’hygiène et de sécurité."
+    },
+    "76": {
+        "Ville": "Brest",
+        "Ecole": "LIT",
+        "Entreprise": "Tsifi",
+        "URL Entreprise": "https://tsifi.tsifi.com/",
+        "Logo entreprise": "https://tsifi.tsifi.com/wp-content/uploads/2025/01/Logo-TSIFi.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Administrateur Systèmes et Réseaux"
+        ],
+        "Description": "Installation, maintenance et support des postes de travail et réseaux. Analyse des besoins clients et proposition de solutions adaptées. Participation aux projets informatiques et aux rendez-vous clients. Documentation des procédures."
+    },
+    "77": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Univers du sommeil",
+        "URL Entreprise": "https://www.univers-du-sommeil.com/",
+        "Logo entreprise": "https://www.univers-du-sommeil.com/themes/axome/assets/img/logo.png",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant(e) responsable de magasin"
+        ],
+        "Description": "Accueil et conseil client (physique et téléphonique). Vente et gestion des commandes/livraisons. Mise en place et entretien du magasin. Organisation du stock et contrôle qualité. Maîtrise des outils informatiques."
+    },
+    "78": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Gars du reun basket",
+        "URL Entreprise": "https://garsdureun-basket-guipavas.com/",
+        "Logo entreprise": "https://garsdureun-basket-guipavas.com/public/3192/upload/theme/kal-theme-logo-header_1.png",
+        "Horaire présence": "Entreprise représentée",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Alternant communication & marketing"
+        ],
+        "Description": "Création et animation de contenus pour les réseaux sociaux. Rédaction d’articles et newsletters. Production de visuels et vidéos pour la communication digitale. Couverture des matchs et événements (photos, interviews). Recherche de sponsors et gestion des partenariats."
     }
 }
