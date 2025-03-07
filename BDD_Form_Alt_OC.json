@@ -159,7 +159,7 @@
         "Logo entreprise": "https://www.bord-a-bord.fr/local/cache-vignettes/L199xH200/logo-bab-d85a4.png?1724944258",
         "Horaire présence": "Entreprise représentée",
         "Evenement": "",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Community manager"
         ],
@@ -173,7 +173,7 @@
         "Logo entreprise": "https://capfinances.fr/wp-content/uploads/2021/02/Capfinances_Logo_Header_reduc.png",
         "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Gestion patrimoine"
         ],
@@ -187,7 +187,7 @@
         "Logo entreprise": "https://capfinances.fr/wp-content/uploads/2021/02/Capfinances_Logo_Header_reduc.png",
         "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Gestion patrimoine"
         ],
@@ -215,7 +215,7 @@
         "Logo entreprise": "https://hotelbellevue.fr/wp-content/uploads/2023/10/logo-hotel-bellevue-brest.png",
         "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Réceptionniste polyvalent"
         ],
@@ -229,8 +229,10 @@
         "Logo entreprise": "https://d1fikoxdgdspr1.cloudfront.net/cache/img/sainte-barbe-hotel-spa-3129b8-500-240-auto.svg?q=1722267017",
         "Horaire présence": "Entreprise représentée",
         "Evenement": "",
-        "Nb poste": 0,
-        "Liste poste": [],
+        "Nb poste": 1,
+        "Liste poste": [
+            Employé polyvalent
+        ],
         "Description": "Cuisine / Pâtisserie / Salle / Sommellerie / Réception /  Etages"
     },
     "17": {
@@ -255,7 +257,7 @@
         "Logo entreprise": "data:image/png;base64,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",
         "Horaire présence": "Entreprise représentée",
         "Evenement": "",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Assistant(e)s Co-leaders"
         ],
@@ -353,7 +355,7 @@
         "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
         "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Growth hacker"
         ],
@@ -367,7 +369,7 @@
         "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
         "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Growth hacker"
         ],
@@ -381,7 +383,7 @@
         "Logo entreprise": "https://agence-lumy.fr/lumy-agence-digitale-brest.png",
         "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Growth hacker"
         ],
@@ -493,7 +495,7 @@
         "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
         "Horaire présence": "Entreprise représentée",
         "Evenement": "",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Vendeur conseil en magasin"
         ],
@@ -507,7 +509,7 @@
         "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
         "Horaire présence": "Entreprise représentée",
         "Evenement": "",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Vendeur conseil en magasin"
         ],
@@ -521,7 +523,7 @@
         "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
         "Horaire présence": "Entreprise représentée",
         "Evenement": "",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Vendeur conseil en magasin"
         ],
@@ -535,7 +537,7 @@
         "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
         "Horaire présence": "Entreprise représentée",
         "Evenement": "",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Vendeur conseil en magasin"
         ],
@@ -549,7 +551,7 @@
         "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
         "Horaire présence": "Entreprise représentée",
         "Evenement": "",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Vendeur conseil en magasin"
         ],
@@ -563,7 +565,7 @@
         "Logo entreprise": "https://www.alre-peche.com/img/alre-peche-logo-1495027918.jpg",
         "Horaire présence": "Entreprise représentée",
         "Evenement": "",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Vendeur conseil en magasin"
         ],
@@ -605,7 +607,7 @@
         "Logo entreprise": "https://www.univers-du-sommeil.com/themes/axome/assets/img/logo.png",
         "Horaire présence": "Entreprise représentée",
         "Evenement": "",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Assistant(e) responsable de magasin"
         ],
@@ -619,7 +621,7 @@
         "Logo entreprise": "https://garsdureun-basket-guipavas.com/public/3192/upload/theme/kal-theme-logo-header_1.png",
         "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Alternant communication & marketing"
         ],
@@ -633,7 +635,7 @@
         "Logo entreprise": "https://www.cm-arkea.com/arkea/banque/upload/docs/image/png/2023-11/doportletimagelogoheader.png.associated/th-238x131-doportletimagelogoheader.png.webp",
         "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Chargé(e) de communication"
         ],
@@ -647,7 +649,7 @@
         "Logo entreprise": "https://www.cm-arkea.com/arkea/banque/upload/docs/image/png/2023-11/doportletimagelogoheader.png.associated/th-238x131-doportletimagelogoheader.png.webp",
         "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Chargé(e) de communication"
         ],
@@ -661,7 +663,7 @@
         "Logo entreprise": "https://www.seanertek.fr/themes/seanertek/assets/img/logo-seanertek-fr.svg",
         "Horaire présence": "Entreprise représentée",
         "Evenement": "",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Assistant(e) de gestion et organisation"
         ],
@@ -675,7 +677,7 @@
         "Logo entreprise": "https://www.laiterie-legall.fr/wp-content/uploads/2023/02/maison_le_gall_logo_site.png",
         "Horaire présence": "Entreprise représentée",
         "Evenement": "",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "Assistant commercial en alternance (H/F)"
         ],
