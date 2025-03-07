@@ -680,5 +680,117 @@
             "Assistant commercial en alternance (H/F)"
         ],
         "Description": "Commerce : suivi des opérations promotionnelles, mise à jour GDSN, statistiques clients. Secrétariat : accueil physique/téléphonique, gestion du courrier, orientation, courriers administratifs. Comptabilité/facturation : relances clients, litiges, pénalités, factures."
+    },
+    "49": {
+        "Ville": "Brest",
+        "Ecole": "HTBS",
+        "Entreprise": "BOT - CONAN LODGE",
+        "URL Entreprise": "https://www.botconan.com/",
+        "Logo entreprise": "https://images.squarespace-cdn.com/content/v1/6034c27226ec817724dca4a2/1614101952199-YG5UNB6IX6VIBP2ANWJ6/Sans+titre-2.png?format=1500w",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant de direction"
+        ],
+        "Description": "Cette alternance se déroule en deux phases, liées à la saisonnalité : de septembre à mai, vous planifierez la saison (projets administratifs, comptables, juridiques, marketing, réservations, médias sociaux, séminaires). De juin à septembre, vous assurerez la qualité des séjours (checks-in/out, restauration rapide en soirée, résolution des problèmes)."
+    },
+    "50": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "BOT - CONAN LODGE",
+        "URL Entreprise": "https://www.botconan.com/",
+        "Logo entreprise": "https://images.squarespace-cdn.com/content/v1/6034c27226ec817724dca4a2/1614101952199-YG5UNB6IX6VIBP2ANWJ6/Sans+titre-2.png?format=1500w",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant de direction"
+        ],
+        "Description": "Cette alternance se déroule en deux phases, liées à la saisonnalité : de septembre à mai, vous planifierez la saison (projets administratifs, comptables, juridiques, marketing, réservations, médias sociaux, séminaires). De juin à septembre, vous assurerez la qualité des séjours (checks-in/out, restauration rapide en soirée, résolution des problèmes)."
+    },
+    "51": {
+        "Ville": "Brest",
+        "Ecole": "HTBS",
+        "Entreprise": "BOT - CONAN LODGE",
+        "URL Entreprise": "https://www.bestwestern.fr/",
+        "Logo entreprise": "https://pressroom.bestwestern.fr/wp-content/uploads/2018/10/4b5cba6d9e5e393a26fc0a978ba56e1f-1500x395.jpg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Réceptionniste"
+        ],
+        "Description": "Accueillir les clients - Répondre aux demandes des clients - Promouvoir les prestations de l’établissement - Aide au service du petit-déjeuner et du restaurant - Contrôle des chambres"
+    },
+    "52": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "Best Western Hotel",
+        "URL Entreprise": "https://www.bestwestern.fr/",
+        "Logo entreprise": "https://pressroom.bestwestern.fr/wp-content/uploads/2018/10/4b5cba6d9e5e393a26fc0a978ba56e1f-1500x395.jpg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Serveur/euse"
+        ],
+        "Description": "Aide au petit-déjeuner - Préparation de la salle et des tables avant le service - Prise des commandes - Service à table - Débarrassage des tables"
+    },
+    "53": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Best Western Hotel",
+        "URL Entreprise": "https://www.bestwestern.fr/",
+        "Logo entreprise": "https://pressroom.bestwestern.fr/wp-content/uploads/2018/10/4b5cba6d9e5e393a26fc0a978ba56e1f-1500x395.jpg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Communication et marketing"
+        ],
+        "Description": "Communication sur les réseaux sociaux - Communication interne (brochures, affiches et supports pour l’hôtel) - Elaborer et suivre une stratégie de contenu adapté"
+    },
+    "54": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "POEM",
+        "URL Entreprise": "https://www.poem-biere.com/",
+        "Logo entreprise": "https://0c2efb47f932902b2a9d.cdn6.editmysite.com/uploads/b/0c2efb47f932902b2a9da474415d940ccc187877f68130ed09e5041b392c0cdb/poem-logo-ecriture-bleue_1729759371.jpg?width=2400&optimize=medium",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Commercial"
+        ],
+        "Description": "Prospection sur toute la Bretagne - Elaboration d’offres commerciales - Fidélisation clients - Gestion du portefeuille client"
+    },
+    "55": {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "POEM",
+        "URL Entreprise": "https://www.poem-biere.com/",
+        "Logo entreprise": "https://0c2efb47f932902b2a9d.cdn6.editmysite.com/uploads/b/0c2efb47f932902b2a9da474415d940ccc187877f68130ed09e5041b392c0cdb/poem-logo-ecriture-bleue_1729759371.jpg?width=2400&optimize=medium",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Commercial"
+        ],
+        "Description": "Prospection sur toute la Bretagne - Elaboration d’offres commerciales - Fidélisation clients - Gestion du portefeuille client"
+    },
+    "56": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "POEM",
+        "URL Entreprise": "https://www.poem-biere.com/",
+        "Logo entreprise": "https://0c2efb47f932902b2a9d.cdn6.editmysite.com/uploads/b/0c2efb47f932902b2a9da474415d940ccc187877f68130ed09e5041b392c0cdb/poem-logo-ecriture-bleue_1729759371.jpg?width=2400&optimize=medium",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé(e) de communication"
+        ],
+        "Description": "Création de contenu sur les réseaux sociaux - Gestion des réseaux sociaux - Création de charte graphique - Organisation d’évènements - Montage vidéo - Travail de veille - Analyse statistiques"
     }
 }
