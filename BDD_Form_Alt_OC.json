@@ -1174,5 +1174,47 @@
             "Alternance développement web"
         ],
         "Description": "La mission consiste à planifier les projets en définissant objectifs, délais et ressources via des cahiers des charges, tout en animant et coordonnant les équipes de développement et d’infrastructure. Elle inclut également la gestion des ressources en identifiant et affectant les compétences nécessaires, ainsi que le suivi et le reporting à travers des indicateurs de performance. Enfin, une veille technologique est essentielle pour suivre les évolutions et proposer des solutions innovantes."
+    },
+    "84": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Global Open Campus",
+        "URL Entreprise": "https://reseau-opencampus.com/",
+        "Logo entreprise": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Community Manager"
+        ],
+        "Description": ""
+    },
+    "85": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Global Open Campus",
+        "URL Entreprise": "https://reseau-opencampus.com/",
+        "Logo entreprise": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Coordinateur community manager"
+        ],
+        "Description": ""
+    },
+    "86": {
+        "Ville": "Brest",
+        "Ecole": "LDS",
+        "Entreprise": "Global Open Campus",
+        "URL Entreprise": "https://reseau-opencampus.com/",
+        "Logo entreprise": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé webmarketing"
+        ],
+        "Description": ""
     }
 }
