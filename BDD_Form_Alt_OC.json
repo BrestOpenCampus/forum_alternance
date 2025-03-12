@@ -1090,5 +1090,89 @@
             "Chef d'équipe (H/F)"
         ],
         "Description": "Préparation de l'inventaire ou chantier, le matériel et la prise d'informations avec le responsable du site. Il s'agit aussi de briefer et encadrer l'équipe, gérer la relation client, répondre aux questions techniques, et s'assurer de l'avancée et de la fiabilité du travail. À la fin, il faut rapporter les données de la prestation, assurer la signature des contrats et participer à diverses missions supplémentaires, comme la conduite de véhicules et le recrutement."
+    },
+    "78": {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Bredial",
+        "URL Entreprise": "https://www.toutfeu-toutfrais.com/",
+        "Logo entreprise": "https://www.toutfeu-toutfrais.com/images/imagecache/0x280/jpg/template_images_logo_2.webp",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé de communication"
+        ],
+        "Description": "Établir la stratégie de communication liée à la création de nouvelles marques - Accompagner l’entreprise dans la création de nouvelles marques - Mettre à jour des sites Internet  - Créer des visuels et supports de communication - Créer des catalogues professionnels - Gérer des différents réseaux sociaux - Établir un planning de publications sur ces réseaux"
+    },
+    "79": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Global Open Campus",
+        "URL Entreprise": "https://reseau-opencampus.com/",
+        "Logo entreprise": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical-300x245.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Assistant service télémarketing"
+        ],
+        "Description": "Le service télémarketing a pour rôle de traiter les demandes des prospects qui regroupe 2 équipes : - Une équipe pour promouvoir l’Open campus - Une équipe pour promouvoir le Pôle BTS Alternance Actions commerciales : Promouvoir les écoles - Traitement des demandes des prospects (mailing, tchat, phoning) - Prospection BtoB - Prospection Bto"
+    },
+    "80": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "ICICARTEGRISE",
+        "URL Entreprise": "https://www.icicartegrise.fr/",
+        "Logo entreprise": "https://media.licdn.com/dms/image/v2/C4D0BAQH0p95hPtyugQ/company-logo_200_200/company-logo_200_200/0/1630478443114/icicartegrise_fr_logo?e=2147483647&v=beta&t=Z8bZY67Xa88kbbCngmNZr0PldvG4zbQhSCusfYDV9uc",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé de développement commercial"
+        ],
+        "Description": "Développement du portefeuille partenaires via la sélection des cibles, la définition d’une stratégie de conquête et l’utilisation de divers canaux de prospection, avec suivi et correction des actions dans un CRM. Installation des nouveaux partenaires par la création des accès, leur formation et l’envoi des commandes adaptées. Participation à la vie de l’entreprise avec la gestion des fournitures et la remontée des dysfonctionnements."
+    },
+    "81": {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "ICICARTEGRISE",
+        "URL Entreprise": "https://www.icicartegrise.fr/",
+        "Logo entreprise": "https://media.licdn.com/dms/image/v2/C4D0BAQH0p95hPtyugQ/company-logo_200_200/company-logo_200_200/0/1630478443114/icicartegrise_fr_logo?e=2147483647&v=beta&t=Z8bZY67Xa88kbbCngmNZr0PldvG4zbQhSCusfYDV9uc",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Gestionnaire administratif"
+        ],
+        "Description": "Gestion des dossiers administratifs : saisie, vérification, archivage et suivi des paiements, avec transfert des données vers les interfaces officielles. Relation client et coordination interne via appels, mails et échanges entre collègues pour gérer les dossiers complexes. Gestion des commandes, accueil client et participation à la vie de l’entreprise par le suivi des procédures, la logistique et l’amélioration des services."
+    },
+    "82": {
+        "Ville": "Brest",
+        "Ecole": "LIT",
+        "Entreprise": "ICICARTEGRISE",
+        "URL Entreprise": "https://www.icicartegrise.fr/",
+        "Logo entreprise": "https://media.licdn.com/dms/image/v2/C4D0BAQH0p95hPtyugQ/company-logo_200_200/company-logo_200_200/0/1630478443114/icicartegrise_fr_logo?e=2147483647&v=beta&t=Z8bZY67Xa88kbbCngmNZr0PldvG4zbQhSCusfYDV9uc",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Développeur logiciel Front -End web"
+        ],
+        "Description": "L’intégration HTML/CSS doit respecter le responsive design et la charte graphique tout en améliorant l’expérience utilisateur. Il faut assurer la maintenance, développer de nouvelles fonctionnalités et garantir la compatibilité multi-supports. Le développement doit être rigoureux, avec une bonne gestion des tests et mises en production. Enfin, la participation aux tâches quotidiennes, comme la gestion des fournitures et la remontée des dysfonctionnements, est essentielle."
+    },
+    "83": {
+        "Ville": "Brest",
+        "Ecole": "LIT",
+        "Entreprise": "ETNA",
+        "URL Entreprise": "https://www.etna-sea-robots.com/",
+        "Logo entreprise": "https://www.etna-sea-robots.com/wp-content/uploads/2023/10/cropped-logo-blanc.png",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Alternance développement web"
+        ],
+        "Description": "La mission consiste à planifier les projets en définissant objectifs, délais et ressources via des cahiers des charges, tout en animant et coordonnant les équipes de développement et d’infrastructure. Elle inclut également la gestion des ressources en identifiant et affectant les compétences nécessaires, ainsi que le suivi et le reporting à travers des indicateurs de performance. Enfin, une veille technologique est essentielle pour suivre les évolutions et proposer des solutions innovantes."
     }
 }
