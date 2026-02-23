@@ -43,7 +43,7 @@ Lors de l’enregistrement ou de l’export du CSV :
 
 Colonnes attendues :
 
-`Ville`;`Ecole`;`Entreprise`;`URL Entreprise`;`Logo entreprise`;`Horaire présence`;`Evenement`;`Nb poste`;`Liste poste`;`Description`
+`Ville`  `Ecole`  `Entreprise`  `URL Entreprise`  `Logo entreprise`  `Horaire présence`  `Evenement`  `Nb poste`  `Liste poste`  `Description`
 
 ---
 
