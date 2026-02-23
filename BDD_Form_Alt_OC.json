@@ -1,5 +1,5 @@
-{
-    "0": {
+[
+    {
         "Ville": "Brest",
         "Ecole": "HTBS",
         "Entreprise": "Hôtel Iroise, Hôtel Bellevue (Groupe Richardson)",
@@ -13,7 +13,7 @@
         ],
         "Description": "Le réceptionniste polyvalent accueille les clients, gère réservations, check-in/check-out et demandes. Il informe sur l’hôtel et l’environnement local, participe aux services, veille à la propreté, au linge et coordonne les prestataires."
     },
-    "1": {
+    {
         "Ville": "Brest",
         "Ecole": "SDC",
         "Entreprise": "Hôtel Iroise, Hôtel Bellevue (Groupe Richardson)",
@@ -27,5 +27,4 @@
         ],
         "Description": "Le/la Chargé(e) de Communication et Marketing participe à la stratégie de communication du groupement hôtelier et collabore avec les établissements pour valoriser leur image.  Il/elle assure la création de contenus (web, print, réseaux sociaux, newsletters), l’animation des réseaux sociaux, la mise à jour des sites internet et la veille concurrentielle.  Le poste inclut l’analyse des performances (KPI, reporting), le développement de la marque employeur, la coordination inter-établissements et l’appui à l’organisation d’événements.  Il requiert d’excellentes compétences rédactionnelles, la maîtrise des outils digitaux (CMS, réseaux sociaux), des bases en graphisme, une bonne culture marketing (SEO), ainsi que des capacités d’analyse, d’organisation, de créativité et d’aisance relationnelle."
     }
-  
-}
+]
