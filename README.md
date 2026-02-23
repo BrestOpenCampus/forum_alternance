@@ -6,6 +6,7 @@ Transformer un fichier **CSV** (base de données du forum alternance) en fichier
 
 Le script Python `Convertiseur.py` automatise cette conversion.
 
+---
 
 ## 2. Prérequis
 
@@ -13,6 +14,7 @@ Le script Python `Convertiseur.py` automatise cette conversion.
 - Accès au dépôt GitHub du projet
 - Fichier CSV conforme
 
+---
 
 ## 3. Structure des fichiers
 
@@ -28,6 +30,7 @@ Après conversion, le script génère automatiquement :
 ⚠️ Les noms de fichiers doivent être **strictement identiques**  
 (majuscules, underscores, orthographe).
 
+---
 
 ## 4. Format du fichier CSV
 
@@ -42,6 +45,7 @@ Colonnes attendues :
 
 `Ville`;`Ecole`;`Entreprise`;`URL Entreprise`;`Logo entreprise`;`Horaire présence`;`Evenement`;`Nb poste`;`Liste poste`;`Description`
 
+---
 
 ## 5. Lancer la conversion
 
@@ -53,6 +57,7 @@ Colonnes attendues :
 py Convertisseur.py
 ```
 
+---
 
 ## 6. Résultat attendu
 
@@ -67,6 +72,7 @@ Vérifications rapides :
 - `Nb poste` est un nombre
 - `Liste poste` est une liste
 
+---
 
 ## 7. Mise à jour du site (GitHub)
 
@@ -77,6 +83,7 @@ Procédure recommandée :
 1. Copier le contenu du fichier `BDD_Formu_Alt_OC.json`
 2. Le coller dans le contenu du fichier `content.json` sur GitHub
 
+---
 
 ## 8. Erreurs courantes
 
