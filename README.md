@@ -68,7 +68,7 @@ Vérifications rapides :
 - `Liste poste` est une liste
 
 
-## Mise à jour du site (GitHub)
+## 7. Mise à jour du site (GitHub)
 
 Le site utilise le fichier `content.json`.
 
@@ -78,7 +78,7 @@ Procédure recommandée :
 2. Le coller dans le contenu du fichier `content.json` sur GitHub
 
 
-## Erreurs courantes
+## 8. Erreurs courantes
 
 - **Fichier introuvable**  
   → Le fichier CSV est absent du dossier ou à un mauvais nom
