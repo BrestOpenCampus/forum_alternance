@@ -6,7 +6,7 @@ Transformer un fichier **CSV** (base de données du forum alternance) en fichier
 
 Le script Python `Convertiseur.py` automatise cette conversion.
 
----
+--
 
 ## 2. Prérequis
 
