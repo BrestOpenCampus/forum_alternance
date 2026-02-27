@@ -1,17 +1,17 @@
 [
-  {
+ {
         "Ville": "Brest",
         "Ecole": "HTBS",
         "Entreprise": "Hôtel Iroise, Hôtel Bellevue (Groupe Richardson)",
         "URL Entreprise": "https://hotelbellevue.fr/",
         "Logo entreprise": "https://hotelbellevue.fr/wp-content/uploads/2023/10/logo-BLV-Site-1024x600.png",
-        "Horaire présence": "14h - 17h30",
+        "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
         "Nb poste": 1,
         "Liste poste": [
             "Alternant réceptionniste polyvalen"
         ],
-        "Description": "Le réceptionniste polyvalent accueille les clients, gère réservations, check-in/check-out et demandes. Il informe sur l’hôtel et l’environnement local, participe aux services, veille à la propreté, au linge et coordonne les prestataires."
+        "Description": "Le réceptionniste polyvalent accueille les clients,  gère réservations, check-in/check-out et demandes.  Il informe sur l’hôtel et l’environnement local, participe aux services, veille à la propreté, au linge et coordonne les prestataires."
     },
     {
         "Ville": "Brest",
@@ -19,13 +19,13 @@
         "Entreprise": "Hôtel Iroise, Hôtel Bellevue (Groupe Richardson)",
         "URL Entreprise": "https://hotelbellevue.fr/",
         "Logo entreprise": "https://hotelbellevue.fr/wp-content/uploads/2023/10/logo-BLV-Site-1024x600.png",
-        "Horaire présence": "14h - 17h30",
+        "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
         "Nb poste": 1,
         "Liste poste": [
-            "Alternant chargé de communication et marketing"
+            "Chargé de communication et marketing"
         ],
-        "Description": "Le/la Chargé(e) de Communication et Marketing participe à la stratégie de communication du groupement hôtelier et collabore avec les établissements pour valoriser leur image.  Il/elle assure la création de contenus (web, print, réseaux sociaux, newsletters), l’animation des réseaux sociaux, la mise à jour des sites internet et la veille concurrentielle.  Le poste inclut l’analyse des performances (KPI, reporting), le développement de la marque employeur, la coordination inter-établissements et l’appui à l’organisation d’événements.  Il requiert d’excellentes compétences rédactionnelles, la maîtrise des outils digitaux (CMS, réseaux sociaux), des bases en graphisme, une bonne culture marketing (SEO), ainsi que des capacités d’analyse, d’organisation, de créativité et d’aisance relationnelle."
+        "Description": "Participe à la stratégie de communication du groupement hôtelier Collabore avec les établissements pour valoriser leur image Crée des contenus Analyse les performances Dispose de bases en graphisme et d’une culture marketing (SEO)"
     },
     {
         "Ville": "Brest",
@@ -46,63 +46,63 @@
         "Ecole": "IFAG",
         "Entreprise": "Primark",
         "URL Entreprise": "https://www.primark.com/fr-fr",
-        "Logo entreprise": "",
-        "Horaire présence": "14h - 17h30",
+        "Logo entreprise": "https://primedia.primark.com/i/primark/Primark-final-logo?$logo-regulardesktop$&fmt=auto",
+        "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
         "Nb poste": 1,
         "Liste poste": [
-            "Alternant Gestionnaire de département et d'une équipe"
+            "Gestionnaire de département et d'une équipe"
         ],
-        "Description": "Apprendre à gérer un département et une équipe.  • Management : vous animez les équipes de vente ;  • Gestion de budget : accroître les ventes et les résultats, saisir toutes les opportunités commerciales ;  • Gestion des stocks : vous analysez vos ventes, préconisez les commandes de produits de votre périmètre en conséquence et vous gérez vos stocks ;  • Merchandising : vous êtes le/la garant(e) de l’excellence des normes visuelles du groupe ;  • Respect des normes opérationnelles, d’hygiène et de sécurité : veiller à la bonne application globale de la politique Primark"
+        "Description": "Vous animez les équipes de vente  Gestion de budget  Gestion des stocks Merchandising : vous êtes le/la garant(e) de l’excellence des normes visuelles du groupe   Respect des normes opérationnelles: veiller à la bonne application globale de la politique Primark"
     },
     {
         "Ville": "Brest",
         "Ecole": "IFAG",
         "Entreprise": "ICI CARTE GRISE",
         "URL Entreprise": "Carte Grise en Ligne en 2 Minutes avec Icicartegrise - Agréé ANTS",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://www.icicartegrise.fr/images/logo2.png",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
         "Liste poste": [
-            "Alternant Chargé de Développement Commercia"
+            "Chargé de Développement Commercia"
         ],
-        "Description": "Le/la Chargé de Développement Commercial réalise un démarche terrain et téléphonique pour l’acquisition de nouveaux partenaires.  Il assure également le suivi de la relation de l’ensemble des partenaires.  Il assure aussi l’adhésion de nouveaux partenaires soit : - Par une démarche de prospection terrain. - Par une démarche de prospection téléphonique. - Suite à un Lead effectué par un professionnel sur le site ICICARTEGRISE.FR De missions terrains seront à définir avec le responsable. Il est responsable de l’installation complète des nouveaux partenaires. Missions ponctuelles de traitement des dossiers de carte grise"
+        "Description": "Le/la Chargé de Développement Commercial réalise un démarche terrain et téléphonique pour l’acquisition de nouveaux partenaires.  Il assure également le suivi de la relation de l’ensemble des partenaires.  Il assure aussi l’adhésion de nouveaux partenaires .  Missions ponctuelles de traitement des dossiers de carte grise"
     },
     {
         "Ville": "Brest",
         "Ecole": "IFAG",
         "Entreprise": "INTERMARCHE",
         "URL Entreprise": "https://www.intermarche.com/?msockid=2652c563170362d03fa6d33f16f3638d",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://static.wixstatic.com/media/0d0e3a_8d976a350f8e4dc694b158e53e147282~mv2.png/v1/fill/w_500,h_500,al_c/LOGO%20RESIZER%20-%20%C3%89cole%20(73).png",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
         "Liste poste": [
-            "Alternant EMPLOYE(E) COMMERCIAL(E)"
+            "EMPLOYE(E) COMMERCIAL(E)"
         ],
-        "Description": "Le poste consiste à coordonner le travail de l’équipe sous l’autorité de son ou sa responsable. La personne peut également seconder son supérieur hiérarchique dans ses missions quotidiennes et être capable de le remplacer en cas d’absence occasionnelle, en assurant la continuité des activités.  Elle veille à la bonne tenue des rayons dont elle a la charge, en s’assurant du respect des règles de balisage, de propreté, d’hygiène et du bon fonctionnement des équipements. Elle analyse l’organisation des rayons, propose des améliorations et met en œuvre des adaptations concernant la présentation et l’implantation des produits afin d’optimiser l’attractivité commerciale et la performance des ventes.  Par ailleurs, elle réalise des travaux nécessitant une part d’initiative et de responsabilité, ce qui implique une autonomie dans la gestion du rayon et la prise de décisions adaptées aux situations rencontrées. Ce rôle demande donc des compétences en organisation, en management d’équipe, en merchandising et en gestion opérationnelle, tout en contribuant au bon fonctionnement du point de vente et à la satisfaction de la clientèle."
+        "Description": "Le poste consiste à coordonner le travail de l’équipe, seconder son supérieur hiérarchique dans ses missions quotidiennes et être capable de le remplacer en cas d’absence occasionnelle Elle veille à la bonne tenue des rayons, Elle analyse l’organisation des rayons, propose des améliorations et met en œuvre des adaptations concernant la présentation et l’implantation des produits afin d’optimiser l’attractivité commerciale et la performance des ventes."
     },
     {
         "Ville": "Brest",
         "Ecole": "IFAG",
         "Entreprise": "INTERMARCHE",
         "URL Entreprise": "https://www.intermarche.com/?msockid=2652c563170362d03fa6d33f16f3638d",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://static.wixstatic.com/media/0d0e3a_8d976a350f8e4dc694b158e53e147282~mv2.png/v1/fill/w_500,h_500,al_c/LOGO%20RESIZER%20-%20%C3%89cole%20(73).png",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
         "Liste poste": [
             "EMPLOYE(E) COMMERCIAL(LE) Fruits et légume"
         ],
-        "Description": "Veille à la bonne tenue de son rayon (balisage, propreté, hygiène, fonctionnement…). Etudie, propose, et réalise l’adaptation des présentations et implantation des produits. Accueille et conseille le client. Distribue le travail de quelques employés."
+        "Description": "Veille à la bonne tenue de son rayon.Etudie, propose, et réalise l’adaptation des présentations et implantation des produits. Accueille et conseille le client. Distribue le travail de quelques employés."
     },
     {
         "Ville": "Brest",
         "Ecole": "IFAG",
         "Entreprise": "INTERMARCHE",
         "URL Entreprise": "https://www.intermarche.com/?msockid=2652c563170362d03fa6d33f16f3638d",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://static.wixstatic.com/media/0d0e3a_8d976a350f8e4dc694b158e53e147282~mv2.png/v1/fill/w_500,h_500,al_c/LOGO%20RESIZER%20-%20%C3%89cole%20(73).png",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
@@ -116,7 +116,7 @@
         "Ecole": "LIT",
         "Entreprise": "ICI CARTE GRISE",
         "URL Entreprise": "Carte Grise en Ligne en 2 Minutes avec Icicartegrise - Agréé ANTS",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://www.icicartegrise.fr/images/logo2.png",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
@@ -130,7 +130,7 @@
         "Ecole": "LIT",
         "Entreprise": "ICI CARTE GRISE",
         "URL Entreprise": "Carte Grise en Ligne en 2 Minutes avec Icicartegrise - Agréé ANTS",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://www.icicartegrise.fr/images/logo2.png",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
@@ -144,21 +144,21 @@
         "Ecole": "PPI",
         "Entreprise": "ICI CARTE GRISE",
         "URL Entreprise": "Carte Grise en Ligne en 2 Minutes avec Icicartegrise - Agréé ANTS",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://www.icicartegrise.fr/images/logo2.png",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
         "Liste poste": [
             "Gestionnaire Administratif (ve)"
         ],
-        "Description": "Le/la gestionnaire administratif (ve) assure le bon traitement et le suivi des dossiers carte grise. Après avoir vérifié l’intégralité du dossier c’est-à-dire les documents légaux requis ainsi que les paiements s’y affairant. Il/elle le saisit sur le SIV ou l’ANTS ainsi que sur le back office de Icicartegrise les données nécessaires afin que le client reçoive sa carte grise dans des conditions optimales. Il/elle assure en parallèle les relations téléphoniques et les mails avec les clients et les partenaires. Il/elle effectue un contrôle complémentaire des dossiers à la fin de chaque semaine avant de procéder à leur archivage conformément aux procédures de l’entreprise. La préparation et l’envoi des commandes des kits Icicartegrise et des plaques d’immatriculation font aussi partie des missions qui lui sont affectées. Il/elle est amenée à recevoir les clients se présentant dans l’entreprise. Il est également amené à classer les documents pour le comptable. Il/elle participe à la vie quotidienne de l’entreprise (ménage, commande de fournitures générales, …)"
+        "Description": "Assure le bon traitement et le suivi des dossiers carte grise, assure les relations téléphoniques et les mails avec les clients et les partenaires, effectue un contrôle complémentaire des dossiers à la fin de chaque semaine avant de procéder à leur archivage conformément aux procédures de l’entreprise. La préparation et l’envoi des commandes des kits Icicartegrise et des plaques d’immatriculation font aussi partie des missions qui lui sont affectées, recevoir les clients se présentant dans l’entreprise, amené à classer les documents pour le comptable."
     },
     {
         "Ville": "Brest",
         "Ecole": "PPI",
         "Entreprise": "INTERMARCHE",
         "URL Entreprise": "https://www.intermarche.com/?msockid=2652c563170362d03fa6d33f16f3638d",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://static.wixstatic.com/media/0d0e3a_8d976a350f8e4dc694b158e53e147282~mv2.png/v1/fill/w_500,h_500,al_c/LOGO%20RESIZER%20-%20%C3%89cole%20(73).png",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
@@ -172,7 +172,7 @@
         "Ecole": "PPI",
         "Entreprise": "INTERMARCHE",
         "URL Entreprise": "https://www.intermarche.com/?msockid=2652c563170362d03fa6d33f16f3638d",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://static.wixstatic.com/media/0d0e3a_8d976a350f8e4dc694b158e53e147282~mv2.png/v1/fill/w_500,h_500,al_c/LOGO%20RESIZER%20-%20%C3%89cole%20(73).png",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
@@ -186,12 +186,12 @@
         "Ecole": "SDC",
         "Entreprise": "Confiture Les 4 Saisons",
         "URL Entreprise": "Confitures Biologiques",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://www.confiture4saisons.bzh/img/les-4-saisons-logo-1551302202.jpg",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
         "Liste poste": [
-            "Chargé de communication"
+            "Chargé(e) de communication"
         ],
         "Description": "Gestion & animation des réseaux sociaux, Relations presse & partenariat, Création de supports de communication, Communication interne, Missions complémentaires possibles"
     },
@@ -200,41 +200,97 @@
         "Ecole": "IFAG",
         "Entreprise": "Openfly",
         "URL Entreprise": "https://www.openfly.fr/",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://www.openfly.fr/imgs/logo-white.svg",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
         "Liste poste": [
             "ASSISTANT(E) COMMERCIAL(E)"
         ],
-        "Description": "Intégré(e) au service commercial, vous participerez activement au développement de l’activité : • Qualification des leads entrants • Prospection ciblée sur LinkedIn • Vente et suivi des adhésions • Suivi des mises en relation • Gestion des demandes d’affrètement • Suivi et fidélisation de la clientèle • Relation clients et partenaires (pilotes, propriétaires"
+        "Description": "Intégré(e) au service commercial, vous participerez activement au développement de l’activité :  • Qualification des leads entrants  • Prospection ciblée sur LinkedIn  • Vente et suivi des adhésions  • Suivi des mises en relation • Gestion des demandes d’affrètement  • Suivi et fidélisation de la clientèle  • Relation clients et partenaires"
     },
     {
         "Ville": "Brest",
         "Ecole": "SDC",
         "Entreprise": "Vitrines de brest",
         "URL Entreprise": "https://www.vitrines-brest.fr/",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://www.vitrines-brest.fr/images/imagecache/278x178/png/Image_logo.webp?1459257300268",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
         "Liste poste": [
-            "ASSISTANT(E) COMMUNICATION EN ALTERNANCE"
+            "ASSISTANT(E) COMMUNICATION"
         ],
-        "Description": "Participer activement à la réalisation de supports de communication très variés Collaborer à l’organision d’événements divers, que ce soit en interne (réunions, CA, AG, groupes de travail, petits déjeuners…) ou en externe (opérations pour animer le centre-ville). Savoir manier les outils du web et développer la visibilité de l’Association sur Internet Collaborer à l'élaboration des différents plans média et à la gestion des relations presse. Effectuer également des tâches qui relèvent davantage du secrétariat : prises de notes lors des réunions, rédactions de comptes rendus, distribution de documents aux adhérents… Maîtriser les outils de communication (Word, Excel, au minima Canva, Google Forms, Meta business suite…)"
+        "Description": "Participer activement à la réalisation de supports de communication très variés Collaborer à l’organision d’événements divers Savoir manier les outils du web et développer la visibilité de l’Association. Collaborer à l'élaboration des différents plans média et à la gestion des relations presse. Effectuer également des tâches qui relèvent davantage du secrétariat : prises de notes lors des réunions, rédactions de comptes rendus, distribution de documents aux adhérents Maîtriser les outils de communication"
     },
     {
         "Ville": "Brest",
         "Ecole": "IFAG",
         "Entreprise": "Global Open Campus",
-        "URL Entreprise": "",
-        "Logo entreprise": "",
-        "Horaire présence": "14h - 17h30",
+        "URL Entreprise": "Open campus - Campus multi-écoles professionnalisant",
+        "Logo entreprise": "https://reseau-opencampus.com/wp-content/uploads/2022/11/cropped-open-campus-angers-brest-caen-multi-ecoles-professionnalisant-logo-couleur-vertical.png",
+        "Horaire présence": "14h - 19h",
         "Evenement": "JOB DATING & FORUM LIBRE",
         "Nb poste": 1,
         "Liste poste": [
             "Assistant (e) télémarketing"
         ],
-        "Description": "Description du poste : Le service télémarketing a pour rôle de traiter les demandes des prospects qui regroupe 2 équipes : - Une équipe pour promouvoir l’Open campus - Une équipe pour promouvoir le Pôle BTS Alternance Actions commerciales : Promouvoir les écoles - Traitement des demandes des prospects (mailing, tchat, phoning) - Prospection BtoB - Prospection BtoC Profil recherché : - Maitriser les techniques de prospection sédentaire - Maitriser les techniques de ventes et la négociation commerciale - Aisance relationnelle - Maitrise des outils bureautique et connaissance d’un CRM - Appétence pour le domaine de l’enseignement Avantages : - Horaires flexibles - Travail en journé"
+        "Description": "Description du poste : Le service télémarketing a pour rôle de traiter les demandes des prospects qui regroupe 2 équipes :  - Une équipe pour promouvoir l’Open campus  - Une équipe pour promouvoir le Pôle BTS Alternance  Actions commerciales : Promouvoir les écoles - Traitement des demandes des prospects - Prospection BtoB - Prospection BtoC"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "Swisslife",
+        "URL Entreprise": "Particuliers | Swiss Life France",
+        "Logo entreprise": "https://www.swisslife.fr/content/dam/global/logo/SL-Logo-svg.svg",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Commercial(e) Terrain"
+        ],
+        "Description": "Ton Quotidien sera rythmé par la conquete de nouveaux clients entrepreneurs et patrimoniaux :  En menant des actions de prospection ciblées par approche directe En construisant ton réseau de prescripteurs En développant la recommandation"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "DECATHLON",
+        "URL Entreprise": "https://www.decathlon.fr/?msockid=2652c563170362d03fa6d33f16f3638d",
+        "Logo entreprise": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTg4IiBoZWlnaHQ9IjI4IiB2aWV3Qm94PSIwIDAgMTg4IDI4IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik01Ny45MTA4IDIzLjhINzEuMTU0OFYxOS41NDRINjIuOTUwOFYxNS45NzRINzAuMjE2OVYxMi4wMTJINjIuOTUwOFY4LjQ0Mkg3MS4xNTQ4VjQuMkg1Ny45MTA4VjIzLjhaTTg3LjU5MDkgMTUuMzU4Qzg1LjY3MjggMTguNDEgODMuODEwOCAxOS42ODQgODEuNDE2OCAxOS42ODRDNzguMzA4OCAxOS42ODQgNzYuNTAyOCAxNy41IDc2LjUwMjggMTMuNzA2Qzc2LjUwMjggMTAuMTA4IDc4LjE2ODggOC4zMTYgODAuNzMwOSA4LjMxNkM4Mi40MjQ4IDguMzE2IDgzLjgyNDggOS4wNzIgODQuMjU4OSAxMS41OTJIODkuMjk4OUM4OC43NTI4IDYuNzkgODUuNjg2OSAzLjgwOCA4MC43ODY4IDMuODA4Qzc1LjEwMjggMy44MDggNzEuMzY0OCA3LjgyNTk5IDcxLjM2NDggMTMuOTg2QzcxLjM2NDggMjAuMTg4IDc1LjEwMjggMjQuMTkyIDgxLjI0ODggMjQuMTkyQzg1LjI2NjkgMjQuMTkyIDg3Ljk5NjggMjIuNTEyIDg5LjgwMjggMjAuMjQ0SDk2LjY3NjhWMjMuOEgxMDEuNjg5VjQuMkg5NC41NzY5TDg3LjU5MDkgMTUuMzU4Wk05Ni42NzY4IDE2LjMxSDkyLjIzODhMOTYuNjc2OCA5LjFWMTYuMzFaTTQ3LjE1ODggNC4ySDM5Ljc5NDhWMjMuOEg0Ny4xNTg4QzUyLjk5NjkgMjMuOCA1Ni43NjI4IDE5Ljk1IDU2Ljc2MjggMTRDNTYuNzYyOCA4LjA1IDUyLjk5NjkgNC4yIDQ3LjE1ODggNC4yWk00Ny4wODg4IDE5LjU0NEg0NC44MzQ4VjguNDQySDQ3LjA4ODhDNTAuMDAwOCA4LjQ0MiA1MS42Mzg4IDEwLjUgNTEuNjM4OCAxNEM1MS42Mzg4IDE3LjQ4NiA1MC4wMDA4IDE5LjU0NCA0Ny4wODg4IDE5LjU0NFpNMTU5LjUzNyAzLjgwOEMxNTMuNjE1IDMuODA4IDE0OS42MzkgNy44MjYgMTQ5LjYzOSAxNEMxNDkuNjM5IDIwLjE3NCAxNTMuNjE1IDI0LjE5MiAxNTkuNTM3IDI0LjE5MkMxNjUuNDczIDI0LjE5MiAxNjkuNDM1IDIwLjE3NCAxNjkuNDM1IDE0QzE2OS40MzUgNy44MjYwMSAxNjUuNDczIDMuODA4IDE1OS41MzcgMy44MDhaTTE1OS41MzcgMTkuNjg0QzE1Ni42MjUgMTkuNjg0IDE1NC43OTEgMTcuNzM4IDE1NC43OTEgMTRDMTU0Ljc5MSAxMC4yNjIgMTU2LjYyNSA4LjMxNiAxNTkuNTM3IDguMzE2QzE2Mi40NjMgOC4zMTYgMTY0LjI4MyAxMC4yNjIgMTY0LjI4MyAxNEMxNjQuMjgzIDE3LjczOCAxNjIuNDYzIDE5LjY4NCAxNTkuNTM3IDE5LjY4NFpNMTAyLjk0OSA4LjQ0MkgxMDcuODkxVjIzLjhIMTEyLjkzMVY4LjQ0MkgxMTcuODczVjQuMkgxMDIuOTQ5TDEwMi45NDkgOC40NDJaTTE4Mi4zMDEgNC4yVjE0Ljk5NEwxNzUuODA1IDQuMkgxNzAuNTgzVjIzLjhIMTc1LjQ1NVYxMi41NThMMTgyLjIxNyAyMy44SDE4Ny4xNzNWNC4yTDE4Mi4zMDEgNC4yWk0xNDIuNDk5IDQuMkgxMzcuNDU5VjIzLjhIMTUwLjEwMVYxOS41NThIMTQyLjQ5OVY0LjJaTTEzMC45NjMgMTEuNjc2SDEyNC4xNzNWNC4ySDExOS4xMzNWMjMuOEgxMjQuMTczVjE1LjkwNEgxMzAuOTYzVjIzLjhIMTM2LjAwM1Y0LjJIMTMwLjk2M1YxMS42NzZaIiBmaWxsPSIjMzY0M2JhIj48L3BhdGg+PHBhdGggZD0iTTI1LjU3MTEgMEMxNC42MjY3IDAgMS4wMTMwOSAxMS4zMjM2IDEuMDEzMDkgMjAuNzA4NUMxLjAxMzA5IDI1LjU1NTQgNC43MzYxMiAyOCA5LjY1MzMzIDI4QzEzLjI2NCAyOCAxNy42MzMzIDI2LjY3OTQgMjEuODQ4IDI0LjEzNjVWNS40MDg5M0MyMC43MjQxIDcuMzMzNjYgMTUuNDQxNiAxNS4wODg4IDExLjE5ODcgMTkuMjE5M0M5LjAzNTE4IDIxLjMyNjYgNy4zMjExOCAyMi4yMzk4IDUuODQ2MDIgMjIuMjM5OEM0LjE4ODIxIDIyLjIzOTggMy40MDE0NiAyMS4xMTU5IDMuNDAxNDYgMTkuNDQ0MUMzLjQwMTQ2IDExLjg1NzUgMTYuMTcyMiAxLjk5NDk4IDI0LjYyOTggMS45OTQ5OEMyOC4xMTQgMS45OTQ5OCAzMC4zNjE4IDMuNTQwMzkgMzAuMzYxOCA2LjU0NjkyQzMwLjM2MTggOS4zMDA1NSAyOC40OTMzIDEyLjc1NjYgMjUuMzA0MSAxNS45NDU4VjIxLjc0ODFDMzAuODY3NiAxNy4zNTA3IDM0LjE5NzIgMTEuNzQ1MSAzNC4xOTcyIDcuMjIxMjdDMzQuMTk3MiAyLjQ1ODYgMzAuNDg4MyAwIDI1LjU3MTEgMFoiIGZpbGw9IiMzNjQzYmEiPjwvcGF0aD48L3N2Zz4=",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 5,
+        "Liste poste": [
+            "ALTERNANCE VENTE OMNICANAL"
+        ],
+        "Description": "Dès ton arrivée, tu intègres un magasin en tant que vendeur-se/Hôte-sse. Ton sens du relationnel est essentiel. Tu accueilles et renseignes les clients sur nos produits, services et innovations. Tu veilles à la disponibilité et à la mise en rayon des produits, tout en participant au développement économique de ton rayon et du magasin. Tu es responsable de tes ventes !"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "BOULANGER",
+        "URL Entreprise": "https://www.bing.com/search?pglt=43&q=BOULANGER&cvid=2ea2885ae8de4b27bd2d937c1e95c575&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBBFGD0yCAgJEOkHGPxV0gEIMTg5MWowajGoAgiwAgE&FORM=ANNAB1&PC=U531",
+        "Logo entreprise": "https://images.seeklogo.com/logo-png/35/2/boulanger-logo-png_seeklogo-357891.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "ASSISTANT(E) RESPONSABLE MAGASIN"
+        ],
+        "Description": "Accompagner et former ton équipe. Contribuer à la réussite collective du magasin. Garantir l’efficacité des opérations commerciales Assurer un suivi des performances. Être un relais stratégique."
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "SIMMO",
+        "Entreprise": "ORPI",
+        "URL Entreprise": "https://www.orpi.com/contact.l2m.brest/",
+        "Logo entreprise": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxbgbCSx6XipPAgY44KunOZ3QDX0vLcauoiw&s",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 0,
+        "Liste poste": [
+            "ASSISTANT(E) COMMERCIAL(E)"
+        ],
+        "Description": "Accueillir les clients, Organiser les agendas et planifier les rendez-vous ,Participer au suivi administratif des dossiers Contribuer à la rédaction des mandats Préparer les annonces immobilières."
     }
 ]
