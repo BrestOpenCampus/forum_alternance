@@ -1,5 +1,5 @@
 [
- {
+    {
         "Ville": "Brest",
         "Ecole": "HTBS",
         "Entreprise": "Hôtel Iroise, Hôtel Bellevue (Groupe Richardson)",
@@ -32,7 +32,7 @@
         "Ecole": "IFAG",
         "Entreprise": "ARKEA",
         "URL Entreprise": "https://site.arkea-banque-ei.com/",
-        "Logo entreprise": "",
+        "Logo entreprise": "https://www.pole-excellence-cyber.org/wp-content/uploads/2023/11/ARKEA.png",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
         "Nb poste": 1,
@@ -267,30 +267,196 @@
     },
     {
         "Ville": "Brest",
-        "Ecole": "IFAG",
-        "Entreprise": "BOULANGER",
-        "URL Entreprise": "https://www.bing.com/search?pglt=43&q=BOULANGER&cvid=2ea2885ae8de4b27bd2d937c1e95c575&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBBFGD0yCAgJEOkHGPxV0gEIMTg5MWowajGoAgiwAgE&FORM=ANNAB1&PC=U531",
-        "Logo entreprise": "https://images.seeklogo.com/logo-png/35/2/boulanger-logo-png_seeklogo-357891.png",
-        "Horaire présence": "14h - 19h",
-        "Evenement": "JOB DATING & FORUM LIBRE",
-        "Nb poste": 1,
-        "Liste poste": [
-            "ASSISTANT(E) RESPONSABLE MAGASIN"
-        ],
-        "Description": "Accompagner et former ton équipe. Contribuer à la réussite collective du magasin. Garantir l’efficacité des opérations commerciales Assurer un suivi des performances. Être un relais stratégique."
-    },
-    {
-        "Ville": "Brest",
         "Ecole": "SIMMO",
         "Entreprise": "ORPI",
         "URL Entreprise": "https://www.orpi.com/contact.l2m.brest/",
         "Logo entreprise": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxbgbCSx6XipPAgY44KunOZ3QDX0vLcauoiw&s",
         "Horaire présence": "14h - 16h",
         "Evenement": "JOB DATING",
-        "Nb poste": 0,
+        "Nb poste": 1,
         "Liste poste": [
             "ASSISTANT(E) COMMERCIAL(E)"
         ],
         "Description": "Accueillir les clients, Organiser les agendas et planifier les rendez-vous ,Participer au suivi administratif des dossiers Contribuer à la rédaction des mandats Préparer les annonces immobilières."
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "PBA",
+        "URL Entreprise": "https://polebtsalternance.fr/",
+        "Logo entreprise": "https://polebtsalternance.fr/wp-content/uploads/2021/09/Logo-PBA-horizontal-2048x750.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargée de développement commercial"
+        ],
+        "Description": "Missions :  B to C : Promouvoir l’école et aide à l’orientation du jeune B to B Placement du jeune avec nos entreprises partenaires"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "COMITE DEPARTEMENTAL BASKET",
+        "URL Entreprise": "CD29 BASKET",
+        "Logo entreprise": "https://polebtsalternance.fr/wp-content/uploads/2021/09/Logo-PBA-horizontal-2048x750.png",
+        "Horaire présence": "14h - 17h30",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Alternant(e) – Gestion Administrative"
+        ],
+        "Description": "1. Gestion administrative courante 2. Suivi des clubs affiliés 3. Organisation interne 4. Gestion documentaire"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "COMITE DEPARTEMENTAL BASKET",
+        "URL Entreprise": "CD29 BASKET",
+        "Logo entreprise": "https://polebtsalternance.fr/wp-content/uploads/2021/09/Logo-PBA-horizontal-2048x750.png",
+        "Horaire présence": "14h - 17h30",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Alternant(e) – Gestion Administrative"
+        ],
+        "Description": "1. Suivi administratif et budgétaire 2. Gestion des subventions et partenariats 3. Appui aux projets et événements"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "PPI",
+        "Entreprise": "EUREDEN",
+        "URL Entreprise": "EUREDEN | Groupe agroalimentaire coopératif breton - BIENVENUE",
+        "Logo entreprise": "https://www.eureden.com/fr/wp-content/uploads/sites/2/2019/10/logo_full.png",
+        "Horaire présence": "14h - 17h30",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "ALTERNANT(E) - COMMERCANT(E)"
+        ],
+        "Description": "Vente Conseil & Fidélisation  Performance Commerciale  Gestion Opérationnelle  Merchandising & Attractivité"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "EUREDEN",
+        "URL Entreprise": "EUREDEN | Groupe agroalimentaire coopératif breton - BIENVENUE",
+        "Logo entreprise": "https://www.eureden.com/fr/wp-content/uploads/sites/2/2019/10/logo_full.png",
+        "Horaire présence": "14h - 17h30",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "ALTERNANT(E) - COMMERCANT(E)"
+        ],
+        "Description": "Accueillir et guider nos clients  Passer et réceptionner les commandes, gérer les stocks et Imaginer et mettre en place des animations pour faire vivre le secteur. Entretenir le marché aux fleurs pour garantir des plantes en parfaite santé."
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "BOULANGER",
+        "URL Entreprise": "Boulanger © - Électroménager & Multimédia",
+        "Logo entreprise": "https://s3-eu-west-1.amazonaws.com/tpd/logos/581741000000ff000596d229/0x0.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "ASSISTANT MANAGER"
+        ],
+        "Description": "Assistant Manager – Back-office (rattaché RSC) Gestion des stocks  Gestion caisse/SAV  Assistant Manager – Commerce (rattaché RU)"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "La Cabana Cacao",
+        "URL Entreprise": "Accueil - La Cabana Cacao, chocolatier artisanal",
+        "Logo entreprise": "https://s3-eu-west-1.amazonaws.com/tpd/logos/581741000000ff000596d229/0x0.png",
+        "Horaire présence": "14h - 19h",
+        "Evenement": "JOB DATING & FORUM LIBRE",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Alternant(e) Marketing / Commerce / \nGestion"
+        ],
+        "Description": "Développement commercial Gestion et pilotage d’activité Marketing"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "LDS",
+        "Entreprise": "EUREDEN",
+        "URL Entreprise": "EUREDEN | Groupe agroalimentaire coopératif breton - BIENVENUE",
+        "Logo entreprise": "https://www.eureden.com/fr/wp-content/uploads/sites/2/2019/10/logo_full.png",
+        "Horaire présence": "14h - 17h30",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Business Analyst Data & Marketing H/F"
+        ],
+        "Description": "1. Volet Opérationnel & Ciblag 2. Reporting & Pilotag 3. Analyse & Interprétation"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "COMITE DEPARTEMENTAL BASKET",
+        "URL Entreprise": "CD29 BASKET",
+        "Logo entreprise": "https://polebtsalternance.fr/wp-content/uploads/2021/09/Logo-PBA-horizontal-2048x750.png",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Alternant(e) – communication événementielle"
+        ],
+        "Description": "1. Gestion des réseaux sociaux 2. Création de supports de communication 3. Valorisation des compétitions 4. Relation avec les clubs"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "SSB",
+        "Entreprise": "COMITE DEPARTEMENTAL BASKET",
+        "URL Entreprise": "CD29 BASKET",
+        "Logo entreprise": "https://polebtsalternance.fr/wp-content/uploads/2021/09/Logo-PBA-horizontal-2048x750.png",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Alternant(e) – communication événementielle"
+        ],
+        "Description": "1. Communication institutionnelle 2. Relations partenaires et presse 3. Communication interne 4. Développement de l’image du comité"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "IFAG",
+        "Entreprise": "LE SAINT",
+        "URL Entreprise": "https://www.reseau-le-saint.com/le-saint/",
+        "Logo entreprise": "https://www.reseau-le-saint.com/wp-content/uploads/2020/07/RLS_RVB.png",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Commercial Fruits et Légumes"
+        ],
+        "Description": "Prospecter de nouveaux clients  Développer et fidéliser le portefeuille clients Présenter les produits Négocier les prix et les volumes Assurer le suivi des commandes et des livraisons Suivre les objectifs de vente"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "LE SAINT",
+        "URL Entreprise": "Le Saint - Réseau Le Saint",
+        "Logo entreprise": "https://www.reseau-le-saint.com/wp-content/uploads/2020/07/RLS_RVB.png",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 2,
+        "Liste poste": [
+            "Chargé(e) de communication"
+        ],
+        "Description": "Stratégie marketing  Analyse du marché Développement de la marque  Suivi des performances  Communication digitale  Création de contenu  Promotion des produits"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "",
+        "URL Entreprise": "",
+        "Logo entreprise": "",
+        "Horaire présence": "",
+        "Evenement": "",
+        "Nb poste": 0,
+        "Liste poste": [],
+        "Description": ""
     }
 ]
