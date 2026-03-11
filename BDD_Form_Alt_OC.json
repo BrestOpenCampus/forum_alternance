@@ -58,20 +58,6 @@
     {
         "Ville": "Brest",
         "Ecole": "IFAG",
-        "Entreprise": "ICI CARTE GRISE",
-        "URL Entreprise": "Carte Grise en Ligne en 2 Minutes avec Icicartegrise - Agréé ANTS",
-        "Logo entreprise": "https://www.icicartegrise.fr/images/logo2.png",
-        "Horaire présence": "14h - 16h",
-        "Evenement": "JOB DATING",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Chargé de Développement Commercia"
-        ],
-        "Description": "Le/la Chargé de Développement Commercial réalise un démarche terrain et téléphonique pour l’acquisition de nouveaux partenaires.  Il assure également le suivi de la relation de l’ensemble des partenaires.  Il assure aussi l’adhésion de nouveaux partenaires .  Missions ponctuelles de traitement des dossiers de carte grise"
-    },
-    {
-        "Ville": "Brest",
-        "Ecole": "IFAG",
         "Entreprise": "INTERMARCHE",
         "URL Entreprise": "https://www.intermarche.com/?msockid=2652c563170362d03fa6d33f16f3638d",
         "Logo entreprise": "https://static.wixstatic.com/media/0d0e3a_8d976a350f8e4dc694b158e53e147282~mv2.png/v1/fill/w_500,h_500,al_c/LOGO%20RESIZER%20-%20%C3%89cole%20(73).png",
@@ -110,48 +96,6 @@
             "MANAGER DE RAYON"
         ],
         "Description": "Dans le respect de la politique et des instructions établies par la société dans tous les domaines (commercial, gestion, social ...), le/la manager de rayon est responsable de l'approvisionnement, de la tenue et de l'animation de son rayon ; de l’organisation et de l’animation de son équipe. Il/ Elle est apte à passer les commandes."
-    },
-    {
-        "Ville": "Brest",
-        "Ecole": "LIT",
-        "Entreprise": "ICI CARTE GRISE",
-        "URL Entreprise": "Carte Grise en Ligne en 2 Minutes avec Icicartegrise - Agréé ANTS",
-        "Logo entreprise": "https://www.icicartegrise.fr/images/logo2.png",
-        "Horaire présence": "14h - 16h",
-        "Evenement": "JOB DATING",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Chargé de Développement Back-End WEB H/F"
-        ],
-        "Description": "Le/la Chargé de Développement WEB assure l’évolution du site internet à travers l’implémentation de nouvelles fonctionnalités. Il/elle a la charge de la maintenance du site et des mises à jour quotidiennes de l’interface ICICARTEGRISE Rendre accessible et intuitif le site icicartegrise.f"
-    },
-    {
-        "Ville": "Brest",
-        "Ecole": "LIT",
-        "Entreprise": "ICI CARTE GRISE",
-        "URL Entreprise": "Carte Grise en Ligne en 2 Minutes avec Icicartegrise - Agréé ANTS",
-        "Logo entreprise": "https://www.icicartegrise.fr/images/logo2.png",
-        "Horaire présence": "14h - 16h",
-        "Evenement": "JOB DATING",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Chargé de Développement Front-End WEB H/F"
-        ],
-        "Description": "Le/la Chargé de Développement WEB assure l’évolution du site internet à travers l’implémentation de nouvelles fonctionnalités. Il est en charge de la maintenance du site et des mises à jour quotidiennes de l’interface ICICARTEGRISE Rendre accessible et intuitif le site icicartegrise.f"
-    },
-    {
-        "Ville": "Brest",
-        "Ecole": "PPI",
-        "Entreprise": "ICI CARTE GRISE",
-        "URL Entreprise": "Carte Grise en Ligne en 2 Minutes avec Icicartegrise - Agréé ANTS",
-        "Logo entreprise": "https://www.icicartegrise.fr/images/logo2.png",
-        "Horaire présence": "14h - 16h",
-        "Evenement": "JOB DATING",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Gestionnaire Administratif (ve)"
-        ],
-        "Description": "Assure le bon traitement et le suivi des dossiers carte grise, assure les relations téléphoniques et les mails avec les clients et les partenaires, effectue un contrôle complémentaire des dossiers à la fin de chaque semaine avant de procéder à leur archivage conformément aux procédures de l’entreprise. La préparation et l’envoi des commandes des kits Icicartegrise et des plaques d’immatriculation font aussi partie des missions qui lui sont affectées, recevoir les clients se présentant dans l’entreprise, amené à classer les documents pour le comptable."
     },
     {
         "Ville": "Brest",
@@ -295,34 +239,6 @@
     },
     {
         "Ville": "Brest",
-        "Ecole": "IFAG",
-        "Entreprise": "COMITE DEPARTEMENTAL BASKET",
-        "URL Entreprise": "CD29 BASKET",
-        "Logo entreprise": "https://polebtsalternance.fr/wp-content/uploads/2021/09/Logo-PBA-horizontal-2048x750.png",
-        "Horaire présence": "14h - 17h30",
-        "Evenement": "JOB DATING",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Alternant(e) – Gestion Administrative"
-        ],
-        "Description": "1. Gestion administrative courante 2. Suivi des clubs affiliés 3. Organisation interne 4. Gestion documentaire"
-    },
-    {
-        "Ville": "Brest",
-        "Ecole": "PPI",
-        "Entreprise": "COMITE DEPARTEMENTAL BASKET",
-        "URL Entreprise": "CD29 BASKET",
-        "Logo entreprise": "https://polebtsalternance.fr/wp-content/uploads/2021/09/Logo-PBA-horizontal-2048x750.png",
-        "Horaire présence": "14h - 17h30",
-        "Evenement": "JOB DATING",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Alternant(e) – Gestion Administrative"
-        ],
-        "Description": "1. Suivi administratif et budgétaire 2. Gestion des subventions et partenariats 3. Appui aux projets et événements"
-    },
-    {
-        "Ville": "Brest",
         "Ecole": "PPI",
         "Entreprise": "EUREDEN",
         "URL Entreprise": "EUREDEN | Groupe agroalimentaire coopératif breton - BIENVENUE",
@@ -393,34 +309,6 @@
     },
     {
         "Ville": "Brest",
-        "Ecole": "SSB",
-        "Entreprise": "COMITE DEPARTEMENTAL BASKET",
-        "URL Entreprise": "CD29 BASKET",
-        "Logo entreprise": "https://polebtsalternance.fr/wp-content/uploads/2021/09/Logo-PBA-horizontal-2048x750.png",
-        "Horaire présence": "14h - 16h",
-        "Evenement": "JOB DATING",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Alternant(e) – communication événementielle"
-        ],
-        "Description": "1. Gestion des réseaux sociaux 2. Création de supports de communication 3. Valorisation des compétitions 4. Relation avec les clubs"
-    },
-    {
-        "Ville": "Brest",
-        "Ecole": "SSB",
-        "Entreprise": "COMITE DEPARTEMENTAL BASKET",
-        "URL Entreprise": "CD29 BASKET",
-        "Logo entreprise": "https://polebtsalternance.fr/wp-content/uploads/2021/09/Logo-PBA-horizontal-2048x750.png",
-        "Horaire présence": "14h - 16h",
-        "Evenement": "JOB DATING",
-        "Nb poste": 1,
-        "Liste poste": [
-            "Alternant(e) – communication événementielle"
-        ],
-        "Description": "1. Communication institutionnelle 2. Relations partenaires et presse 3. Communication interne 4. Développement de l’image du comité"
-    },
-    {
-        "Ville": "Brest",
         "Ecole": "IFAG",
         "Entreprise": "LE SAINT",
         "URL Entreprise": "https://www.reseau-le-saint.com/le-saint/",
@@ -474,5 +362,19 @@
             "Chargé(e) de communication"
         ],
         "Description": "Participer à l’élaboration des plans de communication annuels et leurs mises à jour, Planifier des actions selon le plan de communication,  Participer à l’organisation d’événements externes et internes,  Mettre en forme des supports de communication   Accompagner les équipes, notamment le service commercial, dans leur appropriation des outils et des supports de communication et proposer des évolutions en fonction de leurs besoins"
+    },
+    {
+        "Ville": "Brest",
+        "Ecole": "SDC",
+        "Entreprise": "Fitness+",
+        "URL Entreprise": "https://www.fitnessplus.fr/",
+        "Logo entreprise": "https://www.fitnessplus.fr/wp-content/uploads/2022/03/Fitness-logo-bleu-042A34.png",
+        "Horaire présence": "14h - 16h",
+        "Evenement": "JOB DATING",
+        "Nb poste": 1,
+        "Liste poste": [
+            "Chargé(e) de communication"
+        ],
+        "Description": "Gérer la communication quotidienne sur les réseaux sociaux (Facebook, Instagram, Tiktok,ect.) Participer à la mise en place de campagnes de communication."
     }
 ]
